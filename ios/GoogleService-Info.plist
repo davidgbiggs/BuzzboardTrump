@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>619391703587-3jkt9ujkb6rfmj26ikgas0dtohroupi4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.619391703587-3jkt9ujkb6rfmj26ikgas0dtohroupi4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWEDPAINUgdh-G5pzd_u1Y8q2dNx0m_Ao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>619391703587</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.buzzboard.trump</string>
+	<key>PROJECT_ID</key>
+	<string>buzzboard-trump</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buzzboard-trump.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:619391703587:ios:89b181cf32ab9c0a52af96</string>
+	<key>DATABASE_URL</key>
+	<string>https://buzzboard-trump.firebaseio.com</string>
+</dict>
+</plist>
