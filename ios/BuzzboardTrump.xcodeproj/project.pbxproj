@@ -17,38 +17,58 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* BuzzboardTrumpTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* BuzzboardTrumpTests.m */; };
-		63B7FB8124C9491B00DA80A0 /* collusiondelusionisover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6524C9491A00DA80A0 /* collusiondelusionisover.mp3 */; };
-		63B7FB8224C9491B00DA80A0 /* majorlosers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6624C9491A00DA80A0 /* majorlosers.mp3 */; };
-		63B7FB8324C9491B00DA80A0 /* wallgottaller.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6724C9491A00DA80A0 /* wallgottaller.mp3 */; };
-		63B7FB8424C9491B00DA80A0 /* fake_news.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6824C9491A00DA80A0 /* fake_news.mp3 */; };
-		63B7FB8524C9491B00DA80A0 /* dating_her.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6924C9491A00DA80A0 /* dating_her.mp3 */; };
-		63B7FB8624C9491B00DA80A0 /* thesearesickpeople.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6A24C9491A00DA80A0 /* thesearesickpeople.mp3 */; };
-		63B7FB8724C9491B00DA80A0 /* therussiahoaxisdead.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6B24C9491A00DA80A0 /* therussiahoaxisdead.mp3 */; };
-		63B7FB8824C9491B00DA80A0 /* youdbeinjail.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6C24C9491A00DA80A0 /* youdbeinjail.mp3 */; };
-		63B7FB8924C9491B00DA80A0 /* metoogeneration.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6D24C9491A00DA80A0 /* metoogeneration.mp3 */; };
-		63B7FB8A24C9491B00DA80A0 /* sleepyjoebiden.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6E24C9491B00DA80A0 /* sleepyjoebiden.mp3 */; };
-		63B7FB8B24C9491B00DA80A0 /* respectswomen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB6F24C9491B00DA80A0 /* respectswomen.mp3 */; };
-		63B7FB8C24C9491B00DA80A0 /* thirdperson.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7024C9491B00DA80A0 /* thirdperson.mp3 */; };
-		63B7FB8D24C9491B00DA80A0 /* theyrebeautifultheyrebig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7124C9491B00DA80A0 /* theyrebeautifultheyrebig.mp3 */; };
-		63B7FB8E24C9491B00DA80A0 /* lyinted.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7224C9491B00DA80A0 /* lyinted.mp3 */; };
-		63B7FB8F24C9491B00DA80A0 /* couldvetoldyouthat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7324C9491B00DA80A0 /* couldvetoldyouthat.mp3 */; };
-		63B7FB9024C9491B00DA80A0 /* twoounces.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7424C9491B00DA80A0 /* twoounces.mp3 */; };
-		63B7FB9124C9491B00DA80A0 /* littlemarco.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7524C9491B00DA80A0 /* littlemarco.mp3 */; };
-		63B7FB9224C9491B00DA80A0 /* billions.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7624C9491B00DA80A0 /* billions.mp3 */; };
-		63B7FB9324C9491B00DA80A0 /* makeamericagreatagain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7724C9491B00DA80A0 /* makeamericagreatagain.mp3 */; };
-		63B7FB9424C9491B00DA80A0 /* thedeepstate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7824C9491B00DA80A0 /* thedeepstate.mp3 */; };
-		63B7FB9524C9491B00DA80A0 /* grabembythe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7924C9491B00DA80A0 /* grabembythe.mp3 */; };
-		63B7FB9624C9491B00DA80A0 /* giveyouamillion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7A24C9491B00DA80A0 /* giveyouamillion.mp3 */; };
-		63B7FB9724C9491B00DA80A0 /* pocahontas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7B24C9491B00DA80A0 /* pocahontas.mp3 */; };
-		63B7FB9824C9491B00DA80A0 /* wrong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7C24C9491B00DA80A0 /* wrong.mp3 */; };
-		63B7FB9924C9491B00DA80A0 /* thefakenewsmedia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7D24C9491B00DA80A0 /* thefakenewsmedia.mp3 */; };
-		63B7FB9A24C9491B00DA80A0 /* wehavesomebreakingnews.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7E24C9491B00DA80A0 /* wehavesomebreakingnews.mp3 */; };
-		63B7FB9B24C9491B00DA80A0 /* china.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB7F24C9491B00DA80A0 /* china.mp3 */; };
-		63B7FB9C24C9491B00DA80A0 /* crookedhillary.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB8024C9491B00DA80A0 /* crookedhillary.mp3 */; };
-		63B7FB9E24C94A8800DA80A0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 63B7FB9D24C94A8800DA80A0 /* GoogleService-Info.plist */; };
+		6397938325077D0600608967 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6397938225077D0600608967 /* GoogleService-Info.plist */; };
+		639793D5250780B400608967 /* Montserrat-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793D4250780B400608967 /* Montserrat-MediumItalic.ttf */; };
+		639793E8250780C100608967 /* Montserrat-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793D6250780C100608967 /* Montserrat-Black.ttf */; };
+		639793E9250780C100608967 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793D7250780C100608967 /* Montserrat-Bold.ttf */; };
+		639793EA250780C100608967 /* Montserrat-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793D9250780C100608967 /* Montserrat-Light.ttf */; };
+		639793EB250780C200608967 /* Montserrat-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793DB250780C100608967 /* Montserrat-ExtraBold.ttf */; };
+		639793EC250780C200608967 /* Montserrat-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793DC250780C100608967 /* Montserrat-Thin.ttf */; };
+		639793ED250780C200608967 /* Montserrat-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793DD250780C100608967 /* Montserrat-Italic.ttf */; };
+		639793EE250780C200608967 /* Montserrat-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793DE250780C100608967 /* Montserrat-BlackItalic.ttf */; };
+		639793EF250780C200608967 /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793DF250780C100608967 /* Montserrat-SemiBold.ttf */; };
+		639793F0250780C200608967 /* Montserrat-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793E0250780C100608967 /* Montserrat-ThinItalic.ttf */; };
+		639793F1250780C200608967 /* Montserrat-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793E1250780C100608967 /* Montserrat-ExtraBoldItalic.ttf */; };
+		639793F2250780C200608967 /* Montserrat-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793E2250780C100608967 /* Montserrat-BoldItalic.ttf */; };
+		639793F3250780C200608967 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793E3250780C100608967 /* Montserrat-Regular.ttf */; };
+		639793F4250780C200608967 /* Montserrat-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793E4250780C100608967 /* Montserrat-SemiBoldItalic.ttf */; };
+		639793F5250780C200608967 /* Montserrat-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793E5250780C100608967 /* Montserrat-LightItalic.ttf */; };
+		639793F6250780C200608967 /* Montserrat-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793E6250780C100608967 /* Montserrat-ExtraLight.ttf */; };
+		639793F7250780C200608967 /* Montserrat-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 639793E7250780C100608967 /* Montserrat-ExtraLightItalic.ttf */; };
+		639793FF250787F000608967 /* billions.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639793FE250787F000608967 /* billions.mp3 */; };
+		6397941C2507889500608967 /* thirdperson.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794012507889300608967 /* thirdperson.mp3 */; };
+		6397941D2507889500608967 /* sleepyjoebiden.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794022507889300608967 /* sleepyjoebiden.mp3 */; };
+		6397941E2507889500608967 /* youdbeinjail.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794032507889300608967 /* youdbeinjail.mp3 */; };
+		6397941F2507889500608967 /* littlemarco.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794042507889300608967 /* littlemarco.mp3 */; };
+		639794202507889500608967 /* pocahontas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794052507889300608967 /* pocahontas.mp3 */; };
+		639794212507889500608967 /* collusiondelusionisover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794062507889300608967 /* collusiondelusionisover.mp3 */; };
+		639794222507889500608967 /* couldvetoldyouthat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794072507889300608967 /* couldvetoldyouthat.mp3 */; };
+		639794232507889500608967 /* twoounces.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794082507889300608967 /* twoounces.mp3 */; };
+		639794242507889500608967 /* grabembythe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794092507889300608967 /* grabembythe.mp3 */; };
+		639794252507889500608967 /* giveyouamillion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6397940A2507889400608967 /* giveyouamillion.mp3 */; };
+		639794262507889500608967 /* fake_news.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6397940B2507889400608967 /* fake_news.mp3 */; };
+		639794272507889500608967 /* makeamericagreatagain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6397940C2507889400608967 /* makeamericagreatagain.mp3 */; };
+		639794282507889500608967 /* majorlosers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6397940D2507889400608967 /* majorlosers.mp3 */; };
+		639794292507889500608967 /* crookedhillary.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6397940E2507889400608967 /* crookedhillary.mp3 */; };
+		6397942A2507889500608967 /* thedeepstate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6397940F2507889400608967 /* thedeepstate.mp3 */; };
+		6397942B2507889500608967 /* wehavesomebreakingnews.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794102507889400608967 /* wehavesomebreakingnews.mp3 */; };
+		6397942C2507889500608967 /* respectswomen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794112507889400608967 /* respectswomen.mp3 */; };
+		6397942D2507889500608967 /* china.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794122507889400608967 /* china.mp3 */; };
+		6397942E2507889500608967 /* therussiahoaxisdead.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794132507889400608967 /* therussiahoaxisdead.mp3 */; };
+		6397942F2507889500608967 /* lyinted.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794142507889400608967 /* lyinted.mp3 */; };
+		639794302507889500608967 /* theyrebeautifultheyrebig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794152507889400608967 /* theyrebeautifultheyrebig.mp3 */; };
+		639794312507889500608967 /* thesearesickpeople.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794162507889400608967 /* thesearesickpeople.mp3 */; };
+		639794322507889500608967 /* dating_her.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794172507889400608967 /* dating_her.mp3 */; };
+		639794332507889500608967 /* metoogeneration.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794182507889500608967 /* metoogeneration.mp3 */; };
+		639794342507889500608967 /* wallgottaller.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 639794192507889500608967 /* wallgottaller.mp3 */; };
+		639794352507889500608967 /* wrong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6397941A2507889500608967 /* wrong.mp3 */; };
+		639794362507889500608967 /* thefakenewsmedia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6397941B2507889500608967 /* thefakenewsmedia.mp3 */; };
+		6397943C25079A8500608967 /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = 6397943B25079A8500608967 /* main.jsbundle */; };
+		6397943E25079AFC00608967 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 6397943D25079AFB00608967 /* assets */; };
 		B5C46FB7AF06033064B2C4E1 /* libPods-BuzzboardTrump-BuzzboardTrumpTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 357E4C6BB4E1194E07E14384 /* libPods-BuzzboardTrump-BuzzboardTrumpTests.a */; };
 		ECA2E249E87802A8474C1BC1 /* libPods-BuzzboardTrump-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 287CAFE4E778726D2FF0B89B /* libPods-BuzzboardTrump-tvOSTests.a */; };
 		F612AEDFA1C70AD3826F4B24 /* libPods-BuzzboardTrump-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FA13AB9D4511A0C1536D1BA6 /* libPods-BuzzboardTrump-tvOS.a */; };
+		F6533EDEC86C49BD8C7B7951 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 33FCB6282174429D9E3693E3 /* Montserrat-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,14 +93,17 @@
 		00E356EE1AD99517003FC87E /* BuzzboardTrumpTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BuzzboardTrumpTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* BuzzboardTrumpTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BuzzboardTrumpTests.m; sourceTree = "<group>"; };
+		05A9F18023C54D7F89CACAFC /* Montserrat-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-ExtraLightItalic.ttf"; path = "../assets/fonts/Montserrat-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
 		068649520E084C06B1804A15 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* BuzzboardTrump.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BuzzboardTrump.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11ADDB6B36A946A298AEEA59 /* Montserrat-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-ExtraBold.ttf"; path = "../assets/fonts/Montserrat-ExtraBold.ttf"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* Trump Soundboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Trump Soundboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = BuzzboardTrump/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = BuzzboardTrump/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = BuzzboardTrump/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = BuzzboardTrump/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = BuzzboardTrump/main.m; sourceTree = "<group>"; };
+		169DEBFBB4F4460984A5CD7B /* Montserrat-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-ThinItalic.ttf"; path = "../assets/fonts/Montserrat-ThinItalic.ttf"; sourceTree = "<group>"; };
 		1B17C027ADCCCC0E6FF91ED8 /* Pods-BuzzboardTrump-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump-tvOS.release.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump-tvOS/Pods-BuzzboardTrump-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		1FBC3CC2C6C54BA29D0B7BAD /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		287CAFE4E778726D2FF0B89B /* libPods-BuzzboardTrump-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BuzzboardTrump-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,54 +111,92 @@
 		2D02E4901E0B4A5D006451C7 /* BuzzboardTrump-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BuzzboardTrump-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E8EAE9A058047198C1BF976 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
 		30893FF8E78645FACAAD1BAD /* libPods-BuzzboardTrump.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BuzzboardTrump.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		33FCB6282174429D9E3693E3 /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Medium.ttf"; path = "../assets/fonts/Montserrat-Medium.ttf"; sourceTree = "<group>"; };
 		357E4C6BB4E1194E07E14384 /* libPods-BuzzboardTrump-BuzzboardTrumpTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BuzzboardTrump-BuzzboardTrumpTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41191466335F45A390298506 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		415019F66C3B49D9BD77502A /* Skia.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Skia.ttf; path = ../assets/fonts/Skia.ttf; sourceTree = "<group>"; };
 		4197602ABDB9491E96D2418E /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		4220D3179FE342AAA6940D8E /* Montserrat-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-LightItalic.ttf"; path = "../assets/fonts/Montserrat-LightItalic.ttf"; sourceTree = "<group>"; };
 		44D9F862CF3C0C2ABE0C3F23 /* Pods-BuzzboardTrump.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump.debug.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump/Pods-BuzzboardTrump.debug.xcconfig"; sourceTree = "<group>"; };
 		49154A49CE7145EDA07B9C82 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		4A175AEE6D6D4F6AB0F24A63 /* Montserrat-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Thin.ttf"; path = "../assets/fonts/Montserrat-Thin.ttf"; sourceTree = "<group>"; };
 		4AD0C0F1BAF67F779A99A923 /* Pods-BuzzboardTrump.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump.release.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump/Pods-BuzzboardTrump.release.xcconfig"; sourceTree = "<group>"; };
+		4D3A1C96F20C4C31964A60C9 /* Montserrat-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Light.ttf"; path = "../assets/fonts/Montserrat-Light.ttf"; sourceTree = "<group>"; };
+		4D8A1B9BD68D4414B74A04D3 /* Montserrat-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-BlackItalic.ttf"; path = "../assets/fonts/Montserrat-BlackItalic.ttf"; sourceTree = "<group>"; };
+		503D51EEEA6A4F5BA4F766DF /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-SemiBold.ttf"; path = "../assets/fonts/Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
 		5055A63C719E4DEDA9A0CEF7 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		57DB692F20C74D01A650C872 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		5BA2E3F6AB774884B0FA8FC1 /* Montserrat-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-ExtraBoldItalic.ttf"; path = "../assets/fonts/Montserrat-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
 		5FB26A8DAC5F46B5B41C41F5 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
-		63B7FB6524C9491A00DA80A0 /* collusiondelusionisover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = collusiondelusionisover.mp3; sourceTree = "<group>"; };
-		63B7FB6624C9491A00DA80A0 /* majorlosers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = majorlosers.mp3; sourceTree = "<group>"; };
-		63B7FB6724C9491A00DA80A0 /* wallgottaller.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wallgottaller.mp3; sourceTree = "<group>"; };
-		63B7FB6824C9491A00DA80A0 /* fake_news.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fake_news.mp3; sourceTree = "<group>"; };
-		63B7FB6924C9491A00DA80A0 /* dating_her.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dating_her.mp3; sourceTree = "<group>"; };
-		63B7FB6A24C9491A00DA80A0 /* thesearesickpeople.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thesearesickpeople.mp3; sourceTree = "<group>"; };
-		63B7FB6B24C9491A00DA80A0 /* therussiahoaxisdead.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = therussiahoaxisdead.mp3; sourceTree = "<group>"; };
-		63B7FB6C24C9491A00DA80A0 /* youdbeinjail.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = youdbeinjail.mp3; sourceTree = "<group>"; };
-		63B7FB6D24C9491A00DA80A0 /* metoogeneration.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = metoogeneration.mp3; sourceTree = "<group>"; };
-		63B7FB6E24C9491B00DA80A0 /* sleepyjoebiden.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sleepyjoebiden.mp3; sourceTree = "<group>"; };
-		63B7FB6F24C9491B00DA80A0 /* respectswomen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = respectswomen.mp3; sourceTree = "<group>"; };
-		63B7FB7024C9491B00DA80A0 /* thirdperson.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thirdperson.mp3; sourceTree = "<group>"; };
-		63B7FB7124C9491B00DA80A0 /* theyrebeautifultheyrebig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = theyrebeautifultheyrebig.mp3; sourceTree = "<group>"; };
-		63B7FB7224C9491B00DA80A0 /* lyinted.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lyinted.mp3; sourceTree = "<group>"; };
-		63B7FB7324C9491B00DA80A0 /* couldvetoldyouthat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = couldvetoldyouthat.mp3; sourceTree = "<group>"; };
-		63B7FB7424C9491B00DA80A0 /* twoounces.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = twoounces.mp3; sourceTree = "<group>"; };
-		63B7FB7524C9491B00DA80A0 /* littlemarco.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = littlemarco.mp3; sourceTree = "<group>"; };
-		63B7FB7624C9491B00DA80A0 /* billions.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = billions.mp3; sourceTree = "<group>"; };
-		63B7FB7724C9491B00DA80A0 /* makeamericagreatagain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = makeamericagreatagain.mp3; sourceTree = "<group>"; };
-		63B7FB7824C9491B00DA80A0 /* thedeepstate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thedeepstate.mp3; sourceTree = "<group>"; };
-		63B7FB7924C9491B00DA80A0 /* grabembythe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = grabembythe.mp3; sourceTree = "<group>"; };
-		63B7FB7A24C9491B00DA80A0 /* giveyouamillion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = giveyouamillion.mp3; sourceTree = "<group>"; };
-		63B7FB7B24C9491B00DA80A0 /* pocahontas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pocahontas.mp3; sourceTree = "<group>"; };
-		63B7FB7C24C9491B00DA80A0 /* wrong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wrong.mp3; sourceTree = "<group>"; };
-		63B7FB7D24C9491B00DA80A0 /* thefakenewsmedia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thefakenewsmedia.mp3; sourceTree = "<group>"; };
-		63B7FB7E24C9491B00DA80A0 /* wehavesomebreakingnews.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wehavesomebreakingnews.mp3; sourceTree = "<group>"; };
-		63B7FB7F24C9491B00DA80A0 /* china.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = china.mp3; sourceTree = "<group>"; };
-		63B7FB8024C9491B00DA80A0 /* crookedhillary.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = crookedhillary.mp3; sourceTree = "<group>"; };
-		63B7FB9D24C94A8800DA80A0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		6397938225077D0600608967 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		639793D4250780B400608967 /* Montserrat-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-MediumItalic.ttf"; path = "../assets/fonts/Montserrat-MediumItalic.ttf"; sourceTree = "<group>"; };
+		639793D6250780C100608967 /* Montserrat-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-Black.ttf"; path = "../assets/fonts/Montserrat-Black.ttf"; sourceTree = "<group>"; };
+		639793D7250780C100608967 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-Bold.ttf"; path = "../assets/fonts/Montserrat-Bold.ttf"; sourceTree = "<group>"; };
+		639793D8250780C100608967 /* Montserrat-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-MediumItalic.ttf"; path = "../assets/fonts/Montserrat-MediumItalic.ttf"; sourceTree = "<group>"; };
+		639793D9250780C100608967 /* Montserrat-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-Light.ttf"; path = "../assets/fonts/Montserrat-Light.ttf"; sourceTree = "<group>"; };
+		639793DA250780C100608967 /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-Medium.ttf"; path = "../assets/fonts/Montserrat-Medium.ttf"; sourceTree = "<group>"; };
+		639793DB250780C100608967 /* Montserrat-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-ExtraBold.ttf"; path = "../assets/fonts/Montserrat-ExtraBold.ttf"; sourceTree = "<group>"; };
+		639793DC250780C100608967 /* Montserrat-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-Thin.ttf"; path = "../assets/fonts/Montserrat-Thin.ttf"; sourceTree = "<group>"; };
+		639793DD250780C100608967 /* Montserrat-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-Italic.ttf"; path = "../assets/fonts/Montserrat-Italic.ttf"; sourceTree = "<group>"; };
+		639793DE250780C100608967 /* Montserrat-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-BlackItalic.ttf"; path = "../assets/fonts/Montserrat-BlackItalic.ttf"; sourceTree = "<group>"; };
+		639793DF250780C100608967 /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-SemiBold.ttf"; path = "../assets/fonts/Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
+		639793E0250780C100608967 /* Montserrat-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-ThinItalic.ttf"; path = "../assets/fonts/Montserrat-ThinItalic.ttf"; sourceTree = "<group>"; };
+		639793E1250780C100608967 /* Montserrat-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-ExtraBoldItalic.ttf"; path = "../assets/fonts/Montserrat-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		639793E2250780C100608967 /* Montserrat-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-BoldItalic.ttf"; path = "../assets/fonts/Montserrat-BoldItalic.ttf"; sourceTree = "<group>"; };
+		639793E3250780C100608967 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-Regular.ttf"; path = "../assets/fonts/Montserrat-Regular.ttf"; sourceTree = "<group>"; };
+		639793E4250780C100608967 /* Montserrat-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-SemiBoldItalic.ttf"; path = "../assets/fonts/Montserrat-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		639793E5250780C100608967 /* Montserrat-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-LightItalic.ttf"; path = "../assets/fonts/Montserrat-LightItalic.ttf"; sourceTree = "<group>"; };
+		639793E6250780C100608967 /* Montserrat-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-ExtraLight.ttf"; path = "../assets/fonts/Montserrat-ExtraLight.ttf"; sourceTree = "<group>"; };
+		639793E7250780C100608967 /* Montserrat-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-ExtraLightItalic.ttf"; path = "../assets/fonts/Montserrat-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		639793FE250787F000608967 /* billions.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = billions.mp3; path = ../assets/sounds/billions.mp3; sourceTree = "<group>"; };
+		639794012507889300608967 /* thirdperson.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thirdperson.mp3; path = ../assets/sounds/thirdperson.mp3; sourceTree = "<group>"; };
+		639794022507889300608967 /* sleepyjoebiden.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = sleepyjoebiden.mp3; path = ../assets/sounds/sleepyjoebiden.mp3; sourceTree = "<group>"; };
+		639794032507889300608967 /* youdbeinjail.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = youdbeinjail.mp3; path = ../assets/sounds/youdbeinjail.mp3; sourceTree = "<group>"; };
+		639794042507889300608967 /* littlemarco.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = littlemarco.mp3; path = ../assets/sounds/littlemarco.mp3; sourceTree = "<group>"; };
+		639794052507889300608967 /* pocahontas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pocahontas.mp3; path = ../assets/sounds/pocahontas.mp3; sourceTree = "<group>"; };
+		639794062507889300608967 /* collusiondelusionisover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = collusiondelusionisover.mp3; path = ../assets/sounds/collusiondelusionisover.mp3; sourceTree = "<group>"; };
+		639794072507889300608967 /* couldvetoldyouthat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = couldvetoldyouthat.mp3; path = ../assets/sounds/couldvetoldyouthat.mp3; sourceTree = "<group>"; };
+		639794082507889300608967 /* twoounces.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = twoounces.mp3; path = ../assets/sounds/twoounces.mp3; sourceTree = "<group>"; };
+		639794092507889300608967 /* grabembythe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = grabembythe.mp3; path = ../assets/sounds/grabembythe.mp3; sourceTree = "<group>"; };
+		6397940A2507889400608967 /* giveyouamillion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = giveyouamillion.mp3; path = ../assets/sounds/giveyouamillion.mp3; sourceTree = "<group>"; };
+		6397940B2507889400608967 /* fake_news.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = fake_news.mp3; path = ../assets/sounds/fake_news.mp3; sourceTree = "<group>"; };
+		6397940C2507889400608967 /* makeamericagreatagain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = makeamericagreatagain.mp3; path = ../assets/sounds/makeamericagreatagain.mp3; sourceTree = "<group>"; };
+		6397940D2507889400608967 /* majorlosers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = majorlosers.mp3; path = ../assets/sounds/majorlosers.mp3; sourceTree = "<group>"; };
+		6397940E2507889400608967 /* crookedhillary.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = crookedhillary.mp3; path = ../assets/sounds/crookedhillary.mp3; sourceTree = "<group>"; };
+		6397940F2507889400608967 /* thedeepstate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thedeepstate.mp3; path = ../assets/sounds/thedeepstate.mp3; sourceTree = "<group>"; };
+		639794102507889400608967 /* wehavesomebreakingnews.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = wehavesomebreakingnews.mp3; path = ../assets/sounds/wehavesomebreakingnews.mp3; sourceTree = "<group>"; };
+		639794112507889400608967 /* respectswomen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = respectswomen.mp3; path = ../assets/sounds/respectswomen.mp3; sourceTree = "<group>"; };
+		639794122507889400608967 /* china.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = china.mp3; path = ../assets/sounds/china.mp3; sourceTree = "<group>"; };
+		639794132507889400608967 /* therussiahoaxisdead.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = therussiahoaxisdead.mp3; path = ../assets/sounds/therussiahoaxisdead.mp3; sourceTree = "<group>"; };
+		639794142507889400608967 /* lyinted.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = lyinted.mp3; path = ../assets/sounds/lyinted.mp3; sourceTree = "<group>"; };
+		639794152507889400608967 /* theyrebeautifultheyrebig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = theyrebeautifultheyrebig.mp3; path = ../assets/sounds/theyrebeautifultheyrebig.mp3; sourceTree = "<group>"; };
+		639794162507889400608967 /* thesearesickpeople.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thesearesickpeople.mp3; path = ../assets/sounds/thesearesickpeople.mp3; sourceTree = "<group>"; };
+		639794172507889400608967 /* dating_her.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = dating_her.mp3; path = ../assets/sounds/dating_her.mp3; sourceTree = "<group>"; };
+		639794182507889500608967 /* metoogeneration.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = metoogeneration.mp3; path = ../assets/sounds/metoogeneration.mp3; sourceTree = "<group>"; };
+		639794192507889500608967 /* wallgottaller.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = wallgottaller.mp3; path = ../assets/sounds/wallgottaller.mp3; sourceTree = "<group>"; };
+		6397941A2507889500608967 /* wrong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = wrong.mp3; path = ../assets/sounds/wrong.mp3; sourceTree = "<group>"; };
+		6397941B2507889500608967 /* thefakenewsmedia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thefakenewsmedia.mp3; path = ../assets/sounds/thefakenewsmedia.mp3; sourceTree = "<group>"; };
+		6397943B25079A8500608967 /* main.jsbundle */ = {isa = PBXFileReference; lastKnownFileType = text; name = main.jsbundle; path = BuzzboardTrump/main.jsbundle; sourceTree = "<group>"; };
+		6397943D25079AFB00608967 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
+		66A8DF55846249B89D3F7CC7 /* Montserrat-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-SemiBoldItalic.ttf"; path = "../assets/fonts/Montserrat-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		77BAB176A0B04C9798B98009 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Regular.ttf"; path = "../assets/fonts/Montserrat-Regular.ttf"; sourceTree = "<group>"; };
 		78677C520D614815A390777A /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		7CE67BA7CCB59337F6BC71D2 /* Pods-BuzzboardTrump-BuzzboardTrumpTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump-BuzzboardTrumpTests.release.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump-BuzzboardTrumpTests/Pods-BuzzboardTrump-BuzzboardTrumpTests.release.xcconfig"; sourceTree = "<group>"; };
 		7F161B2BB1797036E6064976 /* Pods-BuzzboardTrump-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump-tvOS/Pods-BuzzboardTrump-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		8AEE087CA9BF462D97A2EC66 /* Montserrat-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-MediumItalic.ttf"; path = "../assets/fonts/Montserrat-MediumItalic.ttf"; sourceTree = "<group>"; };
 		8B4389C7569F437B86BE068C /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		8EC8921B2EB54ABC8C571DE1 /* Montserrat-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-BoldItalic.ttf"; path = "../assets/fonts/Montserrat-BoldItalic.ttf"; sourceTree = "<group>"; };
 		9300DA72ACAB40419E5C935E /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		A33F956BD0A447B0B7511F41 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
 		B0690B860D358F3C1A4881B8 /* Pods-BuzzboardTrump-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump-tvOSTests/Pods-BuzzboardTrump-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B095ED721E2B4F8485A6CC01 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Bold.ttf"; path = "../assets/fonts/Montserrat-Bold.ttf"; sourceTree = "<group>"; };
 		B0DA61EC0B9C76FA0DB3229C /* Pods-BuzzboardTrump-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump-tvOSTests/Pods-BuzzboardTrump-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		B76F9F7FB4834F3593DE50BB /* Montserrat-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-ExtraLight.ttf"; path = "../assets/fonts/Montserrat-ExtraLight.ttf"; sourceTree = "<group>"; };
+		B90D9173BBAA4E3096EEBC9C /* Montserrat-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Italic.ttf"; path = "../assets/fonts/Montserrat-Italic.ttf"; sourceTree = "<group>"; };
 		BEA6258CF4924916B29E975B /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		BFE1D99469134856BFAC3935 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		C2FBF622E1AD4BFD85D0CC78 /* Montserrat-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Black.ttf"; path = "../assets/fonts/Montserrat-Black.ttf"; sourceTree = "<group>"; };
+		CF2ED5FA5A5A4DD697C2DFB4 /* Skia_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Skia_Regular.ttf; path = ../assets/fonts/Skia_Regular.ttf; sourceTree = "<group>"; };
 		D7317C6899AE48B4BB959A0A /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		D7DCDC90F1CE5E39035A1EE9 /* Pods-BuzzboardTrump-BuzzboardTrumpTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump-BuzzboardTrumpTests.debug.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump-BuzzboardTrumpTests/Pods-BuzzboardTrump-BuzzboardTrumpTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -215,6 +276,26 @@
 				5055A63C719E4DEDA9A0CEF7 /* Octicons.ttf */,
 				78677C520D614815A390777A /* SimpleLineIcons.ttf */,
 				5FB26A8DAC5F46B5B41C41F5 /* Zocial.ttf */,
+				415019F66C3B49D9BD77502A /* Skia.ttf */,
+				CF2ED5FA5A5A4DD697C2DFB4 /* Skia_Regular.ttf */,
+				C2FBF622E1AD4BFD85D0CC78 /* Montserrat-Black.ttf */,
+				4D8A1B9BD68D4414B74A04D3 /* Montserrat-BlackItalic.ttf */,
+				B095ED721E2B4F8485A6CC01 /* Montserrat-Bold.ttf */,
+				8EC8921B2EB54ABC8C571DE1 /* Montserrat-BoldItalic.ttf */,
+				11ADDB6B36A946A298AEEA59 /* Montserrat-ExtraBold.ttf */,
+				5BA2E3F6AB774884B0FA8FC1 /* Montserrat-ExtraBoldItalic.ttf */,
+				B76F9F7FB4834F3593DE50BB /* Montserrat-ExtraLight.ttf */,
+				05A9F18023C54D7F89CACAFC /* Montserrat-ExtraLightItalic.ttf */,
+				B90D9173BBAA4E3096EEBC9C /* Montserrat-Italic.ttf */,
+				4D3A1C96F20C4C31964A60C9 /* Montserrat-Light.ttf */,
+				4220D3179FE342AAA6940D8E /* Montserrat-LightItalic.ttf */,
+				33FCB6282174429D9E3693E3 /* Montserrat-Medium.ttf */,
+				8AEE087CA9BF462D97A2EC66 /* Montserrat-MediumItalic.ttf */,
+				77BAB176A0B04C9798B98009 /* Montserrat-Regular.ttf */,
+				503D51EEEA6A4F5BA4F766DF /* Montserrat-SemiBold.ttf */,
+				66A8DF55846249B89D3F7CC7 /* Montserrat-SemiBoldItalic.ttf */,
+				4A175AEE6D6D4F6AB0F24A63 /* Montserrat-Thin.ttf */,
+				169DEBFBB4F4460984A5CD7B /* Montserrat-ThinItalic.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -271,35 +352,56 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				63B7FB9D24C94A8800DA80A0 /* GoogleService-Info.plist */,
-				63B7FB7624C9491B00DA80A0 /* billions.mp3 */,
-				63B7FB7F24C9491B00DA80A0 /* china.mp3 */,
-				63B7FB6524C9491A00DA80A0 /* collusiondelusionisover.mp3 */,
-				63B7FB7324C9491B00DA80A0 /* couldvetoldyouthat.mp3 */,
-				63B7FB8024C9491B00DA80A0 /* crookedhillary.mp3 */,
-				63B7FB6924C9491A00DA80A0 /* dating_her.mp3 */,
-				63B7FB6824C9491A00DA80A0 /* fake_news.mp3 */,
-				63B7FB7A24C9491B00DA80A0 /* giveyouamillion.mp3 */,
-				63B7FB7924C9491B00DA80A0 /* grabembythe.mp3 */,
-				63B7FB7524C9491B00DA80A0 /* littlemarco.mp3 */,
-				63B7FB7224C9491B00DA80A0 /* lyinted.mp3 */,
-				63B7FB6624C9491A00DA80A0 /* majorlosers.mp3 */,
-				63B7FB7724C9491B00DA80A0 /* makeamericagreatagain.mp3 */,
-				63B7FB6D24C9491A00DA80A0 /* metoogeneration.mp3 */,
-				63B7FB7B24C9491B00DA80A0 /* pocahontas.mp3 */,
-				63B7FB6F24C9491B00DA80A0 /* respectswomen.mp3 */,
-				63B7FB6E24C9491B00DA80A0 /* sleepyjoebiden.mp3 */,
-				63B7FB7824C9491B00DA80A0 /* thedeepstate.mp3 */,
-				63B7FB7D24C9491B00DA80A0 /* thefakenewsmedia.mp3 */,
-				63B7FB6B24C9491A00DA80A0 /* therussiahoaxisdead.mp3 */,
-				63B7FB6A24C9491A00DA80A0 /* thesearesickpeople.mp3 */,
-				63B7FB7124C9491B00DA80A0 /* theyrebeautifultheyrebig.mp3 */,
-				63B7FB7024C9491B00DA80A0 /* thirdperson.mp3 */,
-				63B7FB7424C9491B00DA80A0 /* twoounces.mp3 */,
-				63B7FB6724C9491A00DA80A0 /* wallgottaller.mp3 */,
-				63B7FB7E24C9491B00DA80A0 /* wehavesomebreakingnews.mp3 */,
-				63B7FB7C24C9491B00DA80A0 /* wrong.mp3 */,
-				63B7FB6C24C9491A00DA80A0 /* youdbeinjail.mp3 */,
+				6397943D25079AFB00608967 /* assets */,
+				6397943B25079A8500608967 /* main.jsbundle */,
+				639794122507889400608967 /* china.mp3 */,
+				639794062507889300608967 /* collusiondelusionisover.mp3 */,
+				639794072507889300608967 /* couldvetoldyouthat.mp3 */,
+				6397940E2507889400608967 /* crookedhillary.mp3 */,
+				639794172507889400608967 /* dating_her.mp3 */,
+				6397940B2507889400608967 /* fake_news.mp3 */,
+				6397940A2507889400608967 /* giveyouamillion.mp3 */,
+				639794092507889300608967 /* grabembythe.mp3 */,
+				639794042507889300608967 /* littlemarco.mp3 */,
+				639794142507889400608967 /* lyinted.mp3 */,
+				6397940D2507889400608967 /* majorlosers.mp3 */,
+				6397940C2507889400608967 /* makeamericagreatagain.mp3 */,
+				639794182507889500608967 /* metoogeneration.mp3 */,
+				639794052507889300608967 /* pocahontas.mp3 */,
+				639794112507889400608967 /* respectswomen.mp3 */,
+				639794022507889300608967 /* sleepyjoebiden.mp3 */,
+				6397940F2507889400608967 /* thedeepstate.mp3 */,
+				6397941B2507889500608967 /* thefakenewsmedia.mp3 */,
+				639794132507889400608967 /* therussiahoaxisdead.mp3 */,
+				639794162507889400608967 /* thesearesickpeople.mp3 */,
+				639794152507889400608967 /* theyrebeautifultheyrebig.mp3 */,
+				639794012507889300608967 /* thirdperson.mp3 */,
+				639794082507889300608967 /* twoounces.mp3 */,
+				639794192507889500608967 /* wallgottaller.mp3 */,
+				639794102507889400608967 /* wehavesomebreakingnews.mp3 */,
+				6397941A2507889500608967 /* wrong.mp3 */,
+				639794032507889300608967 /* youdbeinjail.mp3 */,
+				639793E2250780C100608967 /* Montserrat-BoldItalic.ttf */,
+				639793FE250787F000608967 /* billions.mp3 */,
+				639793DB250780C100608967 /* Montserrat-ExtraBold.ttf */,
+				639793E1250780C100608967 /* Montserrat-ExtraBoldItalic.ttf */,
+				639793E6250780C100608967 /* Montserrat-ExtraLight.ttf */,
+				639793E7250780C100608967 /* Montserrat-ExtraLightItalic.ttf */,
+				639793DD250780C100608967 /* Montserrat-Italic.ttf */,
+				639793D9250780C100608967 /* Montserrat-Light.ttf */,
+				639793E5250780C100608967 /* Montserrat-LightItalic.ttf */,
+				639793DA250780C100608967 /* Montserrat-Medium.ttf */,
+				639793D4250780B400608967 /* Montserrat-MediumItalic.ttf */,
+				639793D6250780C100608967 /* Montserrat-Black.ttf */,
+				639793DE250780C100608967 /* Montserrat-BlackItalic.ttf */,
+				639793D7250780C100608967 /* Montserrat-Bold.ttf */,
+				639793D8250780C100608967 /* Montserrat-MediumItalic.ttf */,
+				639793E3250780C100608967 /* Montserrat-Regular.ttf */,
+				639793DF250780C100608967 /* Montserrat-SemiBold.ttf */,
+				639793E4250780C100608967 /* Montserrat-SemiBoldItalic.ttf */,
+				639793DC250780C100608967 /* Montserrat-Thin.ttf */,
+				639793E0250780C100608967 /* Montserrat-ThinItalic.ttf */,
+				6397938225077D0600608967 /* GoogleService-Info.plist */,
 				13B07FAE1A68108700A75B9A /* BuzzboardTrump */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* BuzzboardTrumpTests */,
@@ -316,7 +418,7 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* BuzzboardTrump.app */,
+				13B07F961A680F5B00A75B9A /* Trump Soundboard.app */,
 				00E356EE1AD99517003FC87E /* BuzzboardTrumpTests.xctest */,
 				2D02E47B1E0B4A5D006451C7 /* BuzzboardTrump-tvOS.app */,
 				2D02E4901E0B4A5D006451C7 /* BuzzboardTrump-tvOSTests.xctest */,
@@ -366,7 +468,7 @@
 			);
 			name = BuzzboardTrump;
 			productName = BuzzboardTrump;
-			productReference = 13B07F961A680F5B00A75B9A /* BuzzboardTrump.app */;
+			productReference = 13B07F961A680F5B00A75B9A /* Trump Soundboard.app */;
 			productType = "com.apple.product-type.application";
 		};
 		2D02E47A1E0B4A5D006451C7 /* BuzzboardTrump-tvOS */ = {
@@ -468,37 +570,57 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63B7FB9524C9491B00DA80A0 /* grabembythe.mp3 in Resources */,
-				63B7FB9124C9491B00DA80A0 /* littlemarco.mp3 in Resources */,
-				63B7FB9824C9491B00DA80A0 /* wrong.mp3 in Resources */,
-				63B7FB8524C9491B00DA80A0 /* dating_her.mp3 in Resources */,
-				63B7FB8C24C9491B00DA80A0 /* thirdperson.mp3 in Resources */,
-				63B7FB9924C9491B00DA80A0 /* thefakenewsmedia.mp3 in Resources */,
-				63B7FB8E24C9491B00DA80A0 /* lyinted.mp3 in Resources */,
-				63B7FB8324C9491B00DA80A0 /* wallgottaller.mp3 in Resources */,
-				63B7FB8A24C9491B00DA80A0 /* sleepyjoebiden.mp3 in Resources */,
-				63B7FB8124C9491B00DA80A0 /* collusiondelusionisover.mp3 in Resources */,
+				6397943E25079AFC00608967 /* assets in Resources */,
+				6397943C25079A8500608967 /* main.jsbundle in Resources */,
+				6397941C2507889500608967 /* thirdperson.mp3 in Resources */,
+				6397941D2507889500608967 /* sleepyjoebiden.mp3 in Resources */,
+				6397941E2507889500608967 /* youdbeinjail.mp3 in Resources */,
+				6397941F2507889500608967 /* littlemarco.mp3 in Resources */,
+				639794202507889500608967 /* pocahontas.mp3 in Resources */,
+				639794212507889500608967 /* collusiondelusionisover.mp3 in Resources */,
+				639794222507889500608967 /* couldvetoldyouthat.mp3 in Resources */,
+				639794232507889500608967 /* twoounces.mp3 in Resources */,
+				639794242507889500608967 /* grabembythe.mp3 in Resources */,
+				639794252507889500608967 /* giveyouamillion.mp3 in Resources */,
+				639794262507889500608967 /* fake_news.mp3 in Resources */,
+				639794272507889500608967 /* makeamericagreatagain.mp3 in Resources */,
+				639794282507889500608967 /* majorlosers.mp3 in Resources */,
+				639794292507889500608967 /* crookedhillary.mp3 in Resources */,
+				6397942A2507889500608967 /* thedeepstate.mp3 in Resources */,
+				6397942B2507889500608967 /* wehavesomebreakingnews.mp3 in Resources */,
+				6397942C2507889500608967 /* respectswomen.mp3 in Resources */,
+				6397942D2507889500608967 /* china.mp3 in Resources */,
+				6397942E2507889500608967 /* therussiahoaxisdead.mp3 in Resources */,
+				6397942F2507889500608967 /* lyinted.mp3 in Resources */,
+				639794302507889500608967 /* theyrebeautifultheyrebig.mp3 in Resources */,
+				639794312507889500608967 /* thesearesickpeople.mp3 in Resources */,
+				639794322507889500608967 /* dating_her.mp3 in Resources */,
+				639794332507889500608967 /* metoogeneration.mp3 in Resources */,
+				639794342507889500608967 /* wallgottaller.mp3 in Resources */,
+				639794352507889500608967 /* wrong.mp3 in Resources */,
+				639794362507889500608967 /* thefakenewsmedia.mp3 in Resources */,
+				6397938325077D0600608967 /* GoogleService-Info.plist in Resources */,
+				639793E8250780C100608967 /* Montserrat-Black.ttf in Resources */,
+				639793E9250780C100608967 /* Montserrat-Bold.ttf in Resources */,
+				639793D5250780B400608967 /* Montserrat-MediumItalic.ttf in Resources */,
+				639793EA250780C100608967 /* Montserrat-Light.ttf in Resources */,
+				F6533EDEC86C49BD8C7B7951 /* Montserrat-Medium.ttf in Resources */,
+				639793EB250780C200608967 /* Montserrat-ExtraBold.ttf in Resources */,
+				639793EC250780C200608967 /* Montserrat-Thin.ttf in Resources */,
+				639793ED250780C200608967 /* Montserrat-Italic.ttf in Resources */,
+				639793EE250780C200608967 /* Montserrat-BlackItalic.ttf in Resources */,
+				639793EF250780C200608967 /* Montserrat-SemiBold.ttf in Resources */,
+				639793F0250780C200608967 /* Montserrat-ThinItalic.ttf in Resources */,
+				639793F1250780C200608967 /* Montserrat-ExtraBoldItalic.ttf in Resources */,
+				639793F2250780C200608967 /* Montserrat-BoldItalic.ttf in Resources */,
+				639793F3250780C200608967 /* Montserrat-Regular.ttf in Resources */,
+				639793F4250780C200608967 /* Montserrat-SemiBoldItalic.ttf in Resources */,
+				639793F5250780C200608967 /* Montserrat-LightItalic.ttf in Resources */,
+				639793F6250780C200608967 /* Montserrat-ExtraLight.ttf in Resources */,
+				639793F7250780C200608967 /* Montserrat-ExtraLightItalic.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				63B7FB8F24C9491B00DA80A0 /* couldvetoldyouthat.mp3 in Resources */,
-				63B7FB9C24C9491B00DA80A0 /* crookedhillary.mp3 in Resources */,
-				63B7FB8724C9491B00DA80A0 /* therussiahoaxisdead.mp3 in Resources */,
-				63B7FB9324C9491B00DA80A0 /* makeamericagreatagain.mp3 in Resources */,
-				63B7FB9E24C94A8800DA80A0 /* GoogleService-Info.plist in Resources */,
-				63B7FB8624C9491B00DA80A0 /* thesearesickpeople.mp3 in Resources */,
-				63B7FB9424C9491B00DA80A0 /* thedeepstate.mp3 in Resources */,
-				63B7FB9A24C9491B00DA80A0 /* wehavesomebreakingnews.mp3 in Resources */,
-				63B7FB9624C9491B00DA80A0 /* giveyouamillion.mp3 in Resources */,
-				63B7FB9B24C9491B00DA80A0 /* china.mp3 in Resources */,
-				63B7FB9724C9491B00DA80A0 /* pocahontas.mp3 in Resources */,
-				63B7FB8224C9491B00DA80A0 /* majorlosers.mp3 in Resources */,
-				63B7FB8424C9491B00DA80A0 /* fake_news.mp3 in Resources */,
-				63B7FB8D24C9491B00DA80A0 /* theyrebeautifultheyrebig.mp3 in Resources */,
-				63B7FB9224C9491B00DA80A0 /* billions.mp3 in Resources */,
-				63B7FB8924C9491B00DA80A0 /* metoogeneration.mp3 in Resources */,
-				63B7FB9024C9491B00DA80A0 /* twoounces.mp3 in Resources */,
+				639793FF250787F000608967 /* billions.mp3 in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				63B7FB8B24C9491B00DA80A0 /* respectswomen.mp3 in Resources */,
-				63B7FB8824C9491B00DA80A0 /* youdbeinjail.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -918,7 +1040,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = app.buzzboard.trump;
-				PRODUCT_NAME = BuzzboardTrump;
+				PRODUCT_NAME = "Trump Soundboard";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -943,7 +1065,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = app.buzzboard.trump;
-				PRODUCT_NAME = BuzzboardTrump;
+				PRODUCT_NAME = "Trump Soundboard";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
