@@ -28,7 +28,7 @@ export default function CategoryRow(props) {
     <View style={localStyles.viewContainer}>
       <FlatList
         ref={_categoryRow}
-        contentContainerStyle={{alignItems: 'center'}}
+        contentContainerStyle={{justifyContent: 'center'}}
         horizontal={true}
         initialScrollIndex={activeIndex}
         showsHorizontalScrollIndicator={false}

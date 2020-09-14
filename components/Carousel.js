@@ -76,7 +76,7 @@ export default function Carousel(props) {
                     keyExtractor={(keyItem) => keyItem.id.toString()}
                   />
                   <AdContainer
-                    testing={false}
+                    testing={true}
                     adID={item.adID}
                     style={localStyles.bannerAd}
                   />

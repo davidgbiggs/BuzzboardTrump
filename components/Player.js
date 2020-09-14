@@ -4,7 +4,6 @@ import EStyleSheet from 'react-native-extended-stylesheet';
 import BasicText from './BasicText';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import FontAwesome5Icon from 'react-native-vector-icons/FontAwesome5';
-import TrackPlayer from 'react-native-track-player';
 
 // might want to implement https://github.com/osdnk/react-native-reanimated-bottom-sheet
 

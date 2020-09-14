@@ -33,7 +33,6 @@ export default function BoardScreen({navigation}) {
       currentSound.sound.stop();
       setCurrentSound(track);
       if (isPlaying) {
-        setIsPlaying(true);
         // setDuration(track.sound.getDuration());
         track.sound.play(() => {
           setIsPlaying(false);

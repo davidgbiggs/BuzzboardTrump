@@ -7,12 +7,11 @@ export default function AdContainer(props) {
   return (
     <>
       <View style={{...localStyles.bannerAd}}>
-        {/* <View style={{height: 70, width: 320, backgroundColor: 'black'}} /> */}
+        {/* <View style={{height: 50, width: 320, backgroundColor: 'white'}} /> */}
         <BannerAd
           // size="320x50"
           size={BannerAdSize.BANNER}
-          unitId={props.testing ? props.adID : TestIds.BANNER}
-          // unitId="ca-app-pub-5686363028654312/3824033740"
+          unitId={props.testing ? TestIds.BANNER : props.adID}
           onAdFailedToLoad={(error) => {
             console.log(`Failed Loading: ${error} \n\n\n\n\n\n\n`);
           }}

@@ -15,7 +15,7 @@ function ListItem(props) {
     title: props.title,
   };
 
-  console.log(props.title);
+  // console.log(props.title);
 
   // async function skip() {
   //   props.setTrack(soundObject);

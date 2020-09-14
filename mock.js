@@ -3,72 +3,55 @@ import Platform from 'react-native';
 let Sound = require('react-native-sound');
 Sound.setCategory('Playback');
 
-let fn1 = new Sound(
-  'fake_news.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-  (error) => {
+function setSound(soundString) {
+  // if (Platform.OS !== 'ios') {
+  //   return new Sound(
+  //     soundString,
+  //     encodeURIComponent(Sound.MAIN_BUNDLE),
+  //     (error) => {
+  //       if (error) {
+  //         console.log(`failed to load ${soundString}`, error);
+  //         return;
+  //       }
+  //     },
+  //   );
+  // } else {
+  return new Sound(soundString, Sound.MAIN_BUNDLE, (error) => {
     if (error) {
-      console.log('failed to load the sound', error);
+      console.log(`failed to load ${soundString}`, error);
       return;
     }
-  },
-);
-let fn2 = new Sound('billions.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn3 = new Sound('china.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn4 = new Sound(
-  'crookedhillary.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
+  });
+  // }
+}
 
-let fn5 = new Sound('wrong.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn6 = new Sound('dating_her.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn7 = new Sound('respectswomen.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn8 = new Sound('thirdperson.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
+let fn1 = setSound('fake_news.mp3');
+let fn2 = setSound('billions.mp3');
+let fn3 = setSound('china.mp3');
+let fn4 = setSound('crookedhillary.mp3');
 
-let fn9 = new Sound(
-  'collusiondelusionisover.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
-let fn10 = new Sound(
-  'couldvetoldyouthat.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
-let fn11 = new Sound(
-  'giveyouamillion.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
-let fn12 = new Sound('grabembythe.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn13 = new Sound('littlemarco.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn14 = new Sound('lyinted.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn15 = new Sound(
-  'makeamericagreatagain.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
-let fn16 = new Sound(
-  'metoogeneration.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
+let fn5 = setSound('wrong.mp3');
+let fn6 = setSound('dating_her.mp3');
+let fn7 = setSound('respectswomen.mp3');
+let fn8 = setSound('thirdperson.mp3');
 
-let fn17 = new Sound('pocahontas.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn18 = new Sound(
-  'sleepyjoebiden.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
-let fn19 = new Sound('thedeepstate.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn20 = new Sound(
-  'thefakenewsmedia.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
-let fn21 = new Sound('twoounces.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn22 = new Sound(
-  'wehavesomebreakingnews.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
-let fn23 = new Sound('youdbeinjail.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
-let fn24 = new Sound(
-  'therussiahoaxisdead.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
+let fn9 = setSound('collusiondelusionisover.mp3');
+let fn10 = setSound('couldvetoldyouthat.mp3');
+let fn11 = setSound('giveyouamillion.mp3');
+let fn12 = setSound('grabembythe.mp3');
+let fn13 = setSound('littlemarco.mp3');
+let fn14 = setSound('lyinted.mp3');
+let fn15 = setSound('makeamericagreatagain.mp3');
+let fn16 = setSound('metoogeneration.mp3');
+
+let fn17 = setSound('pocahontas.mp3');
+let fn18 = setSound('sleepyjoebiden.mp3');
+let fn19 = setSound('thedeepstate.mp3');
+let fn20 = setSound('thefakenewsmedia.mp3');
+let fn21 = setSound('twoounces.mp3');
+let fn22 = setSound('wehavesomebreakingnews.mp3');
+let fn23 = setSound('youdbeinjail.mp3');
+let fn24 = setSound('therussiahoaxisdead.mp3');
 
 const tracks1 = [
   {
@@ -118,19 +101,10 @@ const tracks4 = [
   {id: '25', sound: fn24, title: 'The Russia Hoax Is Finally Dead'},
 ];
 
-let fn25 = new Sound(
-  'thesearesickpeople.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
-let fn26 = new Sound(
-  'theyrebeautifultheyrebig.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
-let fn27 = new Sound(
-  'wallgottaller.mp3',
-  encodeURIComponent(Sound.MAIN_BUNDLE),
-);
-let fn28 = new Sound('majorlosers.mp3', encodeURIComponent(Sound.MAIN_BUNDLE));
+let fn25 = setSound('thesearesickpeople.mp3');
+let fn26 = setSound('theyrebeautifultheyrebig.mp3');
+let fn27 = setSound('wallgottaller.mp3');
+let fn28 = setSound('majorlosers.mp3');
 
 const tracks5 = [
   {id: '26', sound: fn25, title: 'These Are Sick People'},
@@ -177,25 +151,28 @@ export const mock = {
       id: '2',
       title: 'Page 3',
       sounds: tracks3,
-      adID: Platform.OS
-        ? 'ca-app-pub-5686363028654312/6559153508'
-        : 'ca-app-pub-5686363028654312/5380436227',
+      adID:
+        Platform.OS === 'ios'
+          ? 'ca-app-pub-5686363028654312/6559153508'
+          : 'ca-app-pub-5686363028654312/5380436227',
     },
     {
       id: '3',
       title: 'Page 4',
       sounds: tracks4,
-      adID: Platform.OS
-        ? 'ca-app-pub-5686363028654312/9138049533'
-        : 'ca-app-pub-5686363028654312/2342552809',
+      adID:
+        Platform.OS === 'ios'
+          ? 'ca-app-pub-5686363028654312/9138049533'
+          : 'ca-app-pub-5686363028654312/2342552809',
     },
     {
       id: '4',
       title: 'Page 5',
       sounds: tracks5,
-      adID: Platform.OS
-        ? 'ca-app-pub-5686363028654312/7413355585'
-        : 'ca-app-pub-5686363028654312/6964146487',
+      adID:
+        Platform.OS === 'ios'
+          ? 'ca-app-pub-5686363028654312/7413355585'
+          : 'ca-app-pub-5686363028654312/6964146487',
     },
     // {
     //   id: '0',
