@@ -4,17 +4,13 @@ let Sound = require('react-native-sound');
 Sound.setCategory('Playback');
 
 function setSound(soundString) {
-  // if (Platform.OS !== 'ios') {
-  //   return new Sound(
-  //     soundString,
-  //     encodeURIComponent(Sound.MAIN_BUNDLE),
-  //     (error) => {
-  //       if (error) {
-  //         console.log(`failed to load ${soundString}`, error);
-  //         return;
-  //       }
-  //     },
-  //   );
+  // if (Platform.OS === 'ios') {
+  //   return new Sound(soundString, Sound.MAIN_BUNDLE, (error) => {
+  //     if (error) {
+  //       console.log(`failed to load ${soundString}`, error);
+  //       return;
+  //     }
+  //   });
   // } else {
   return new Sound(soundString, Sound.MAIN_BUNDLE, (error) => {
     if (error) {
@@ -22,11 +18,18 @@ function setSound(soundString) {
       return;
     }
   });
-  // }
 }
+// }
+
+// singular ios: ca-app-pub-5686363028654312/8974881472
+// singular android: ca-app-pub-5686363028654312/9725173597
+// interstitial ios: ca-app-pub-5686363028654312/7731766777
+// interstitial android: ca-app-pub-5686363028654312/7661799801
 
 let fn1 = setSound('fake_news.mp3');
+// let fn1 = new Sound('fake_news.mp3', Sound.MAIN_BUNDLE);
 let fn2 = setSound('billions.mp3');
+// let fn2 = new Sound('billions.mp3', encodeURI(Sound.MAIN_BUNDLE));
 let fn3 = setSound('china.mp3');
 let fn4 = setSound('crookedhillary.mp3');
 

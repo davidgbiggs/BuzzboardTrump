@@ -8,7 +8,8 @@ export default function AppHeader(props) {
   return (
     <View style={localStyles.appHeader}>
       <Wordmark />
-      <HeaderButtonContainer toMarket={props.toMarket} />
+      <HeaderButtonContainer toMarket={() => {}} />
+      {/* toMarket={props.toMarket} */}
     </View>
   );
 }

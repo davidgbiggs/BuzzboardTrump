@@ -17,6 +17,35 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* BuzzboardTrumpTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* BuzzboardTrumpTests.m */; };
+		631D047225299CB00047FCF7 /* twoounces.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D045625299CAF0047FCF7 /* twoounces.mp3 */; };
+		631D047325299CB00047FCF7 /* grabembythe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D045725299CAF0047FCF7 /* grabembythe.mp3 */; };
+		631D047425299CB00047FCF7 /* therussiahoaxisdead.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D045825299CAF0047FCF7 /* therussiahoaxisdead.mp3 */; };
+		631D047525299CB00047FCF7 /* china.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D045925299CAF0047FCF7 /* china.mp3 */; };
+		631D047625299CB00047FCF7 /* thesearesickpeople.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D045A25299CAF0047FCF7 /* thesearesickpeople.mp3 */; };
+		631D047725299CB00047FCF7 /* thirdperson.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D045B25299CAF0047FCF7 /* thirdperson.mp3 */; };
+		631D047825299CB00047FCF7 /* respectswomen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D045C25299CAF0047FCF7 /* respectswomen.mp3 */; };
+		631D047925299CB00047FCF7 /* fake_news.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D045D25299CAF0047FCF7 /* fake_news.mp3 */; };
+		631D047A25299CB00047FCF7 /* youdbeinjail.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D045E25299CAF0047FCF7 /* youdbeinjail.mp3 */; };
+		631D047B25299CB00047FCF7 /* collusiondelusionisover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D045F25299CAF0047FCF7 /* collusiondelusionisover.mp3 */; };
+		631D047C25299CB00047FCF7 /* majorlosers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046025299CAF0047FCF7 /* majorlosers.mp3 */; };
+		631D047D25299CB00047FCF7 /* sleepyjoebiden.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046125299CAF0047FCF7 /* sleepyjoebiden.mp3 */; };
+		631D047E25299CB00047FCF7 /* crookedhillary.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046225299CAF0047FCF7 /* crookedhillary.mp3 */; };
+		631D047F25299CB00047FCF7 /* littlemarco.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046325299CAF0047FCF7 /* littlemarco.mp3 */; };
+		631D048025299CB00047FCF7 /* dating_her.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046425299CAF0047FCF7 /* dating_her.mp3 */; };
+		631D048125299CB00047FCF7 /* wrong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046525299CAF0047FCF7 /* wrong.mp3 */; };
+		631D048225299CB00047FCF7 /* makeamericagreatagain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046625299CAF0047FCF7 /* makeamericagreatagain.mp3 */; };
+		631D048325299CB00047FCF7 /* couldvetoldyouthat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046725299CAF0047FCF7 /* couldvetoldyouthat.mp3 */; };
+		631D048425299CB00047FCF7 /* wehavesomebreakingnews.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046825299CAF0047FCF7 /* wehavesomebreakingnews.mp3 */; };
+		631D048525299CB00047FCF7 /* giveyouamillion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046925299CB00047FCF7 /* giveyouamillion.mp3 */; };
+		631D048625299CB00047FCF7 /* theyrebeautifultheyrebig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046A25299CB00047FCF7 /* theyrebeautifultheyrebig.mp3 */; };
+		631D048725299CB00047FCF7 /* thefakenewsmedia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046B25299CB00047FCF7 /* thefakenewsmedia.mp3 */; };
+		631D048825299CB00047FCF7 /* pocahontas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046C25299CB00047FCF7 /* pocahontas.mp3 */; };
+		631D048925299CB00047FCF7 /* wallgottaller.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046D25299CB00047FCF7 /* wallgottaller.mp3 */; };
+		631D048A25299CB00047FCF7 /* lyinted.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046E25299CB00047FCF7 /* lyinted.mp3 */; };
+		631D048B25299CB00047FCF7 /* thedeepstate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D046F25299CB00047FCF7 /* thedeepstate.mp3 */; };
+		631D048C25299CB00047FCF7 /* metoogeneration.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D047025299CB00047FCF7 /* metoogeneration.mp3 */; };
+		631D048D25299CB00047FCF7 /* billions.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 631D047125299CB00047FCF7 /* billions.mp3 */; };
+		631D049325299D220047FCF7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 631D049225299D220047FCF7 /* GoogleService-Info.plist */; };
 		635399F7250DC54B000D3EB3 /* node_modules in Resources */ = {isa = PBXBuildFile; fileRef = 635399F5250DC54B000D3EB3 /* node_modules */; };
 		635399F8250DC54B000D3EB3 /* components in Resources */ = {isa = PBXBuildFile; fileRef = 635399F6250DC54B000D3EB3 /* components */; };
 		63539A43250DC6B3000D3EB3 /* Montserrat-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 635399F9250DC58C000D3EB3 /* Montserrat-Black.ttf */; };
@@ -37,34 +66,6 @@
 		63539A52250DC6B3000D3EB3 /* Montserrat-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 635399FA250DC58C000D3EB3 /* Montserrat-SemiBoldItalic.ttf */; };
 		63539A53250DC6B3000D3EB3 /* Montserrat-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63539A08250DC58D000D3EB3 /* Montserrat-Thin.ttf */; };
 		63539A54250DC6B3000D3EB3 /* Montserrat-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63539A07250DC58D000D3EB3 /* Montserrat-ThinItalic.ttf */; };
-		63539A55250DC6BF000D3EB3 /* billions.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A2E250DC5A2000D3EB3 /* billions.mp3 */; };
-		63539A56250DC6BF000D3EB3 /* china.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A40250DC5A4000D3EB3 /* china.mp3 */; };
-		63539A57250DC6BF000D3EB3 /* collusiondelusionisover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A2C250DC5A2000D3EB3 /* collusiondelusionisover.mp3 */; };
-		63539A58250DC6BF000D3EB3 /* couldvetoldyouthat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A39250DC5A3000D3EB3 /* couldvetoldyouthat.mp3 */; };
-		63539A59250DC6BF000D3EB3 /* crookedhillary.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A36250DC5A3000D3EB3 /* crookedhillary.mp3 */; };
-		63539A5A250DC6BF000D3EB3 /* dating_her.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A33250DC5A3000D3EB3 /* dating_her.mp3 */; };
-		63539A5B250DC6BF000D3EB3 /* fake_news.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A42250DC5A4000D3EB3 /* fake_news.mp3 */; };
-		63539A5C250DC6BF000D3EB3 /* giveyouamillion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A11250DC5A2000D3EB3 /* giveyouamillion.mp3 */; };
-		63539A5D250DC6BF000D3EB3 /* grabembythe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A3C250DC5A4000D3EB3 /* grabembythe.mp3 */; };
-		63539A5E250DC6BF000D3EB3 /* littlemarco.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A0F250DC5A1000D3EB3 /* littlemarco.mp3 */; };
-		63539A5F250DC6BF000D3EB3 /* lyinted.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A0E250DC5A1000D3EB3 /* lyinted.mp3 */; };
-		63539A60250DC6BF000D3EB3 /* majorlosers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A31250DC5A2000D3EB3 /* majorlosers.mp3 */; };
-		63539A61250DC6BF000D3EB3 /* makeamericagreatagain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A38250DC5A3000D3EB3 /* makeamericagreatagain.mp3 */; };
-		63539A62250DC6BF000D3EB3 /* metoogeneration.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A3B250DC5A3000D3EB3 /* metoogeneration.mp3 */; };
-		63539A63250DC6BF000D3EB3 /* pocahontas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A10250DC5A1000D3EB3 /* pocahontas.mp3 */; };
-		63539A64250DC6BF000D3EB3 /* respectswomen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A35250DC5A3000D3EB3 /* respectswomen.mp3 */; };
-		63539A65250DC6BF000D3EB3 /* sleepyjoebiden.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A34250DC5A3000D3EB3 /* sleepyjoebiden.mp3 */; };
-		63539A66250DC6BF000D3EB3 /* thedeepstate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A3A250DC5A3000D3EB3 /* thedeepstate.mp3 */; };
-		63539A67250DC6BF000D3EB3 /* thefakenewsmedia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A0B250DC5A1000D3EB3 /* thefakenewsmedia.mp3 */; };
-		63539A68250DC6BF000D3EB3 /* therussiahoaxisdead.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A41250DC5A4000D3EB3 /* therussiahoaxisdead.mp3 */; };
-		63539A69250DC6BF000D3EB3 /* thesearesickpeople.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A2D250DC5A2000D3EB3 /* thesearesickpeople.mp3 */; };
-		63539A6A250DC6BF000D3EB3 /* theyrebeautifultheyrebig.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A2F250DC5A2000D3EB3 /* theyrebeautifultheyrebig.mp3 */; };
-		63539A6B250DC6BF000D3EB3 /* thirdperson.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A0D250DC5A1000D3EB3 /* thirdperson.mp3 */; };
-		63539A6C250DC6BF000D3EB3 /* wallgottaller.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A30250DC5A2000D3EB3 /* wallgottaller.mp3 */; };
-		63539A6D250DC6BF000D3EB3 /* wehavesomebreakingnews.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A32250DC5A3000D3EB3 /* wehavesomebreakingnews.mp3 */; };
-		63539A6E250DC6BF000D3EB3 /* wrong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A37250DC5A3000D3EB3 /* wrong.mp3 */; };
-		63539A6F250DC6BF000D3EB3 /* youdbeinjail.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 63539A0C250DC5A1000D3EB3 /* youdbeinjail.mp3 */; };
-		6397938325077D0600608967 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6397938225077D0600608967 /* GoogleService-Info.plist */; };
 		6397943C25079A8500608967 /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = 6397943B25079A8500608967 /* main.jsbundle */; };
 		6397943E25079AFC00608967 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 6397943D25079AFB00608967 /* assets */; };
 		B5C46FB7AF06033064B2C4E1 /* libPods-BuzzboardTrump-BuzzboardTrumpTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 357E4C6BB4E1194E07E14384 /* libPods-BuzzboardTrump-BuzzboardTrumpTests.a */; };
@@ -94,7 +95,7 @@
 		00E356EE1AD99517003FC87E /* BuzzboardTrumpTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BuzzboardTrumpTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* BuzzboardTrumpTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BuzzboardTrumpTests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* Trump Soundboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Trump Soundboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* TrumpSoundboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TrumpSoundboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = BuzzboardTrump/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = BuzzboardTrump/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -109,6 +110,35 @@
 		357E4C6BB4E1194E07E14384 /* libPods-BuzzboardTrump-BuzzboardTrumpTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BuzzboardTrump-BuzzboardTrumpTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		44D9F862CF3C0C2ABE0C3F23 /* Pods-BuzzboardTrump.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump.debug.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump/Pods-BuzzboardTrump.debug.xcconfig"; sourceTree = "<group>"; };
 		4AD0C0F1BAF67F779A99A923 /* Pods-BuzzboardTrump.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump.release.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump/Pods-BuzzboardTrump.release.xcconfig"; sourceTree = "<group>"; };
+		631D045625299CAF0047FCF7 /* twoounces.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = twoounces.mp3; path = "../../../Buzzboard Config/trump/convertedbites/twoounces.mp3"; sourceTree = "<group>"; };
+		631D045725299CAF0047FCF7 /* grabembythe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = grabembythe.mp3; path = "../../../Buzzboard Config/trump/convertedbites/grabembythe.mp3"; sourceTree = "<group>"; };
+		631D045825299CAF0047FCF7 /* therussiahoaxisdead.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = therussiahoaxisdead.mp3; path = "../../../Buzzboard Config/trump/convertedbites/therussiahoaxisdead.mp3"; sourceTree = "<group>"; };
+		631D045925299CAF0047FCF7 /* china.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = china.mp3; path = "../../../Buzzboard Config/trump/convertedbites/china.mp3"; sourceTree = "<group>"; };
+		631D045A25299CAF0047FCF7 /* thesearesickpeople.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thesearesickpeople.mp3; path = "../../../Buzzboard Config/trump/convertedbites/thesearesickpeople.mp3"; sourceTree = "<group>"; };
+		631D045B25299CAF0047FCF7 /* thirdperson.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thirdperson.mp3; path = "../../../Buzzboard Config/trump/convertedbites/thirdperson.mp3"; sourceTree = "<group>"; };
+		631D045C25299CAF0047FCF7 /* respectswomen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = respectswomen.mp3; path = "../../../Buzzboard Config/trump/convertedbites/respectswomen.mp3"; sourceTree = "<group>"; };
+		631D045D25299CAF0047FCF7 /* fake_news.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = fake_news.mp3; path = "../../../Buzzboard Config/trump/convertedbites/fake_news.mp3"; sourceTree = "<group>"; };
+		631D045E25299CAF0047FCF7 /* youdbeinjail.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = youdbeinjail.mp3; path = "../../../Buzzboard Config/trump/convertedbites/youdbeinjail.mp3"; sourceTree = "<group>"; };
+		631D045F25299CAF0047FCF7 /* collusiondelusionisover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = collusiondelusionisover.mp3; path = "../../../Buzzboard Config/trump/convertedbites/collusiondelusionisover.mp3"; sourceTree = "<group>"; };
+		631D046025299CAF0047FCF7 /* majorlosers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = majorlosers.mp3; path = "../../../Buzzboard Config/trump/convertedbites/majorlosers.mp3"; sourceTree = "<group>"; };
+		631D046125299CAF0047FCF7 /* sleepyjoebiden.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = sleepyjoebiden.mp3; path = "../../../Buzzboard Config/trump/convertedbites/sleepyjoebiden.mp3"; sourceTree = "<group>"; };
+		631D046225299CAF0047FCF7 /* crookedhillary.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = crookedhillary.mp3; path = "../../../Buzzboard Config/trump/convertedbites/crookedhillary.mp3"; sourceTree = "<group>"; };
+		631D046325299CAF0047FCF7 /* littlemarco.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = littlemarco.mp3; path = "../../../Buzzboard Config/trump/convertedbites/littlemarco.mp3"; sourceTree = "<group>"; };
+		631D046425299CAF0047FCF7 /* dating_her.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = dating_her.mp3; path = "../../../Buzzboard Config/trump/convertedbites/dating_her.mp3"; sourceTree = "<group>"; };
+		631D046525299CAF0047FCF7 /* wrong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = wrong.mp3; path = "../../../Buzzboard Config/trump/convertedbites/wrong.mp3"; sourceTree = "<group>"; };
+		631D046625299CAF0047FCF7 /* makeamericagreatagain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = makeamericagreatagain.mp3; path = "../../../Buzzboard Config/trump/convertedbites/makeamericagreatagain.mp3"; sourceTree = "<group>"; };
+		631D046725299CAF0047FCF7 /* couldvetoldyouthat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = couldvetoldyouthat.mp3; path = "../../../Buzzboard Config/trump/convertedbites/couldvetoldyouthat.mp3"; sourceTree = "<group>"; };
+		631D046825299CAF0047FCF7 /* wehavesomebreakingnews.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = wehavesomebreakingnews.mp3; path = "../../../Buzzboard Config/trump/convertedbites/wehavesomebreakingnews.mp3"; sourceTree = "<group>"; };
+		631D046925299CB00047FCF7 /* giveyouamillion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = giveyouamillion.mp3; path = "../../../Buzzboard Config/trump/convertedbites/giveyouamillion.mp3"; sourceTree = "<group>"; };
+		631D046A25299CB00047FCF7 /* theyrebeautifultheyrebig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = theyrebeautifultheyrebig.mp3; path = "../../../Buzzboard Config/trump/convertedbites/theyrebeautifultheyrebig.mp3"; sourceTree = "<group>"; };
+		631D046B25299CB00047FCF7 /* thefakenewsmedia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thefakenewsmedia.mp3; path = "../../../Buzzboard Config/trump/convertedbites/thefakenewsmedia.mp3"; sourceTree = "<group>"; };
+		631D046C25299CB00047FCF7 /* pocahontas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pocahontas.mp3; path = "../../../Buzzboard Config/trump/convertedbites/pocahontas.mp3"; sourceTree = "<group>"; };
+		631D046D25299CB00047FCF7 /* wallgottaller.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = wallgottaller.mp3; path = "../../../Buzzboard Config/trump/convertedbites/wallgottaller.mp3"; sourceTree = "<group>"; };
+		631D046E25299CB00047FCF7 /* lyinted.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = lyinted.mp3; path = "../../../Buzzboard Config/trump/convertedbites/lyinted.mp3"; sourceTree = "<group>"; };
+		631D046F25299CB00047FCF7 /* thedeepstate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thedeepstate.mp3; path = "../../../Buzzboard Config/trump/convertedbites/thedeepstate.mp3"; sourceTree = "<group>"; };
+		631D047025299CB00047FCF7 /* metoogeneration.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = metoogeneration.mp3; path = "../../../Buzzboard Config/trump/convertedbites/metoogeneration.mp3"; sourceTree = "<group>"; };
+		631D047125299CB00047FCF7 /* billions.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = billions.mp3; path = "../../../Buzzboard Config/trump/convertedbites/billions.mp3"; sourceTree = "<group>"; };
+		631D049225299D220047FCF7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Buzzboard Config/trump/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		635399F5250DC54B000D3EB3 /* node_modules */ = {isa = PBXFileReference; lastKnownFileType = folder; path = node_modules; sourceTree = "<group>"; };
 		635399F6250DC54B000D3EB3 /* components */ = {isa = PBXFileReference; lastKnownFileType = folder; path = components; sourceTree = "<group>"; };
 		635399F9250DC58C000D3EB3 /* Montserrat-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Black.ttf"; sourceTree = "<group>"; };
@@ -129,34 +159,6 @@
 		63539A08250DC58D000D3EB3 /* Montserrat-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Thin.ttf"; sourceTree = "<group>"; };
 		63539A09250DC58D000D3EB3 /* Montserrat-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
 		63539A0A250DC58D000D3EB3 /* Montserrat-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-BoldItalic.ttf"; sourceTree = "<group>"; };
-		63539A0B250DC5A1000D3EB3 /* thefakenewsmedia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thefakenewsmedia.mp3; sourceTree = "<group>"; };
-		63539A0C250DC5A1000D3EB3 /* youdbeinjail.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = youdbeinjail.mp3; sourceTree = "<group>"; };
-		63539A0D250DC5A1000D3EB3 /* thirdperson.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thirdperson.mp3; sourceTree = "<group>"; };
-		63539A0E250DC5A1000D3EB3 /* lyinted.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lyinted.mp3; sourceTree = "<group>"; };
-		63539A0F250DC5A1000D3EB3 /* littlemarco.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = littlemarco.mp3; sourceTree = "<group>"; };
-		63539A10250DC5A1000D3EB3 /* pocahontas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pocahontas.mp3; sourceTree = "<group>"; };
-		63539A11250DC5A2000D3EB3 /* giveyouamillion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = giveyouamillion.mp3; sourceTree = "<group>"; };
-		63539A2C250DC5A2000D3EB3 /* collusiondelusionisover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = collusiondelusionisover.mp3; sourceTree = "<group>"; };
-		63539A2D250DC5A2000D3EB3 /* thesearesickpeople.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thesearesickpeople.mp3; sourceTree = "<group>"; };
-		63539A2E250DC5A2000D3EB3 /* billions.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = billions.mp3; sourceTree = "<group>"; };
-		63539A2F250DC5A2000D3EB3 /* theyrebeautifultheyrebig.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = theyrebeautifultheyrebig.mp3; sourceTree = "<group>"; };
-		63539A30250DC5A2000D3EB3 /* wallgottaller.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wallgottaller.mp3; sourceTree = "<group>"; };
-		63539A31250DC5A2000D3EB3 /* majorlosers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = majorlosers.mp3; sourceTree = "<group>"; };
-		63539A32250DC5A3000D3EB3 /* wehavesomebreakingnews.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wehavesomebreakingnews.mp3; sourceTree = "<group>"; };
-		63539A33250DC5A3000D3EB3 /* dating_her.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dating_her.mp3; sourceTree = "<group>"; };
-		63539A34250DC5A3000D3EB3 /* sleepyjoebiden.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sleepyjoebiden.mp3; sourceTree = "<group>"; };
-		63539A35250DC5A3000D3EB3 /* respectswomen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = respectswomen.mp3; sourceTree = "<group>"; };
-		63539A36250DC5A3000D3EB3 /* crookedhillary.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = crookedhillary.mp3; sourceTree = "<group>"; };
-		63539A37250DC5A3000D3EB3 /* wrong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wrong.mp3; sourceTree = "<group>"; };
-		63539A38250DC5A3000D3EB3 /* makeamericagreatagain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = makeamericagreatagain.mp3; sourceTree = "<group>"; };
-		63539A39250DC5A3000D3EB3 /* couldvetoldyouthat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = couldvetoldyouthat.mp3; sourceTree = "<group>"; };
-		63539A3A250DC5A3000D3EB3 /* thedeepstate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thedeepstate.mp3; sourceTree = "<group>"; };
-		63539A3B250DC5A3000D3EB3 /* metoogeneration.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = metoogeneration.mp3; sourceTree = "<group>"; };
-		63539A3C250DC5A4000D3EB3 /* grabembythe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = grabembythe.mp3; sourceTree = "<group>"; };
-		63539A40250DC5A4000D3EB3 /* china.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = china.mp3; sourceTree = "<group>"; };
-		63539A41250DC5A4000D3EB3 /* therussiahoaxisdead.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = therussiahoaxisdead.mp3; sourceTree = "<group>"; };
-		63539A42250DC5A4000D3EB3 /* fake_news.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fake_news.mp3; sourceTree = "<group>"; };
-		6397938225077D0600608967 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		6397943B25079A8500608967 /* main.jsbundle */ = {isa = PBXFileReference; lastKnownFileType = text; name = main.jsbundle; path = BuzzboardTrump/main.jsbundle; sourceTree = "<group>"; };
 		6397943D25079AFB00608967 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
 		7CE67BA7CCB59337F6BC71D2 /* Pods-BuzzboardTrump-BuzzboardTrumpTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BuzzboardTrump-BuzzboardTrumpTests.release.xcconfig"; path = "Target Support Files/Pods-BuzzboardTrump-BuzzboardTrumpTests/Pods-BuzzboardTrump-BuzzboardTrumpTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -301,36 +303,37 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				631D047125299CB00047FCF7 /* billions.mp3 */,
+				631D045925299CAF0047FCF7 /* china.mp3 */,
+				631D045F25299CAF0047FCF7 /* collusiondelusionisover.mp3 */,
+				631D046725299CAF0047FCF7 /* couldvetoldyouthat.mp3 */,
+				631D046225299CAF0047FCF7 /* crookedhillary.mp3 */,
+				631D046425299CAF0047FCF7 /* dating_her.mp3 */,
+				631D045D25299CAF0047FCF7 /* fake_news.mp3 */,
+				631D046925299CB00047FCF7 /* giveyouamillion.mp3 */,
+				631D045725299CAF0047FCF7 /* grabembythe.mp3 */,
+				631D046325299CAF0047FCF7 /* littlemarco.mp3 */,
+				631D046E25299CB00047FCF7 /* lyinted.mp3 */,
+				631D046025299CAF0047FCF7 /* majorlosers.mp3 */,
+				631D046625299CAF0047FCF7 /* makeamericagreatagain.mp3 */,
+				631D047025299CB00047FCF7 /* metoogeneration.mp3 */,
+				631D046C25299CB00047FCF7 /* pocahontas.mp3 */,
+				631D045C25299CAF0047FCF7 /* respectswomen.mp3 */,
+				631D046125299CAF0047FCF7 /* sleepyjoebiden.mp3 */,
+				631D046F25299CB00047FCF7 /* thedeepstate.mp3 */,
+				631D046B25299CB00047FCF7 /* thefakenewsmedia.mp3 */,
+				631D045825299CAF0047FCF7 /* therussiahoaxisdead.mp3 */,
+				631D045A25299CAF0047FCF7 /* thesearesickpeople.mp3 */,
+				631D046A25299CB00047FCF7 /* theyrebeautifultheyrebig.mp3 */,
+				631D045B25299CAF0047FCF7 /* thirdperson.mp3 */,
+				631D045625299CAF0047FCF7 /* twoounces.mp3 */,
+				631D046D25299CB00047FCF7 /* wallgottaller.mp3 */,
+				631D046825299CAF0047FCF7 /* wehavesomebreakingnews.mp3 */,
+				631D046525299CAF0047FCF7 /* wrong.mp3 */,
+				631D045E25299CAF0047FCF7 /* youdbeinjail.mp3 */,
+				631D049225299D220047FCF7 /* GoogleService-Info.plist */,
 				6397943D25079AFB00608967 /* assets */,
 				6397943B25079A8500608967 /* main.jsbundle */,
-				63539A2E250DC5A2000D3EB3 /* billions.mp3 */,
-				63539A40250DC5A4000D3EB3 /* china.mp3 */,
-				63539A2C250DC5A2000D3EB3 /* collusiondelusionisover.mp3 */,
-				63539A39250DC5A3000D3EB3 /* couldvetoldyouthat.mp3 */,
-				63539A36250DC5A3000D3EB3 /* crookedhillary.mp3 */,
-				63539A33250DC5A3000D3EB3 /* dating_her.mp3 */,
-				63539A42250DC5A4000D3EB3 /* fake_news.mp3 */,
-				63539A11250DC5A2000D3EB3 /* giveyouamillion.mp3 */,
-				63539A3C250DC5A4000D3EB3 /* grabembythe.mp3 */,
-				63539A0F250DC5A1000D3EB3 /* littlemarco.mp3 */,
-				63539A0E250DC5A1000D3EB3 /* lyinted.mp3 */,
-				63539A31250DC5A2000D3EB3 /* majorlosers.mp3 */,
-				63539A38250DC5A3000D3EB3 /* makeamericagreatagain.mp3 */,
-				63539A3B250DC5A3000D3EB3 /* metoogeneration.mp3 */,
-				63539A10250DC5A1000D3EB3 /* pocahontas.mp3 */,
-				63539A35250DC5A3000D3EB3 /* respectswomen.mp3 */,
-				63539A34250DC5A3000D3EB3 /* sleepyjoebiden.mp3 */,
-				63539A3A250DC5A3000D3EB3 /* thedeepstate.mp3 */,
-				63539A0B250DC5A1000D3EB3 /* thefakenewsmedia.mp3 */,
-				63539A41250DC5A4000D3EB3 /* therussiahoaxisdead.mp3 */,
-				63539A2D250DC5A2000D3EB3 /* thesearesickpeople.mp3 */,
-				63539A2F250DC5A2000D3EB3 /* theyrebeautifultheyrebig.mp3 */,
-				63539A0D250DC5A1000D3EB3 /* thirdperson.mp3 */,
-				63539A30250DC5A2000D3EB3 /* wallgottaller.mp3 */,
-				63539A32250DC5A3000D3EB3 /* wehavesomebreakingnews.mp3 */,
-				63539A37250DC5A3000D3EB3 /* wrong.mp3 */,
-				63539A0C250DC5A1000D3EB3 /* youdbeinjail.mp3 */,
-				6397938225077D0600608967 /* GoogleService-Info.plist */,
 				13B07FAE1A68108700A75B9A /* BuzzboardTrump */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* BuzzboardTrumpTests */,
@@ -347,7 +350,7 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* Trump Soundboard.app */,
+				13B07F961A680F5B00A75B9A /* TrumpSoundboard.app */,
 				00E356EE1AD99517003FC87E /* BuzzboardTrumpTests.xctest */,
 				2D02E47B1E0B4A5D006451C7 /* BuzzboardTrump-tvOS.app */,
 				2D02E4901E0B4A5D006451C7 /* BuzzboardTrump-tvOSTests.xctest */,
@@ -397,7 +400,7 @@
 			);
 			name = BuzzboardTrump;
 			productName = BuzzboardTrump;
-			productReference = 13B07F961A680F5B00A75B9A /* Trump Soundboard.app */;
+			productReference = 13B07F961A680F5B00A75B9A /* TrumpSoundboard.app */;
 			productType = "com.apple.product-type.application";
 		};
 		2D02E47A1E0B4A5D006451C7 /* BuzzboardTrump-tvOS */ = {
@@ -499,33 +502,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63539A55250DC6BF000D3EB3 /* billions.mp3 in Resources */,
-				63539A56250DC6BF000D3EB3 /* china.mp3 in Resources */,
-				63539A57250DC6BF000D3EB3 /* collusiondelusionisover.mp3 in Resources */,
-				63539A58250DC6BF000D3EB3 /* couldvetoldyouthat.mp3 in Resources */,
-				63539A59250DC6BF000D3EB3 /* crookedhillary.mp3 in Resources */,
-				63539A5A250DC6BF000D3EB3 /* dating_her.mp3 in Resources */,
-				63539A5B250DC6BF000D3EB3 /* fake_news.mp3 in Resources */,
-				63539A5C250DC6BF000D3EB3 /* giveyouamillion.mp3 in Resources */,
-				63539A5D250DC6BF000D3EB3 /* grabembythe.mp3 in Resources */,
-				63539A5E250DC6BF000D3EB3 /* littlemarco.mp3 in Resources */,
-				63539A5F250DC6BF000D3EB3 /* lyinted.mp3 in Resources */,
-				63539A60250DC6BF000D3EB3 /* majorlosers.mp3 in Resources */,
-				63539A61250DC6BF000D3EB3 /* makeamericagreatagain.mp3 in Resources */,
-				63539A62250DC6BF000D3EB3 /* metoogeneration.mp3 in Resources */,
-				63539A63250DC6BF000D3EB3 /* pocahontas.mp3 in Resources */,
-				63539A64250DC6BF000D3EB3 /* respectswomen.mp3 in Resources */,
-				63539A65250DC6BF000D3EB3 /* sleepyjoebiden.mp3 in Resources */,
-				63539A66250DC6BF000D3EB3 /* thedeepstate.mp3 in Resources */,
-				63539A67250DC6BF000D3EB3 /* thefakenewsmedia.mp3 in Resources */,
-				63539A68250DC6BF000D3EB3 /* therussiahoaxisdead.mp3 in Resources */,
-				63539A69250DC6BF000D3EB3 /* thesearesickpeople.mp3 in Resources */,
-				63539A6A250DC6BF000D3EB3 /* theyrebeautifultheyrebig.mp3 in Resources */,
-				63539A6B250DC6BF000D3EB3 /* thirdperson.mp3 in Resources */,
-				63539A6C250DC6BF000D3EB3 /* wallgottaller.mp3 in Resources */,
-				63539A6D250DC6BF000D3EB3 /* wehavesomebreakingnews.mp3 in Resources */,
-				63539A6E250DC6BF000D3EB3 /* wrong.mp3 in Resources */,
-				63539A6F250DC6BF000D3EB3 /* youdbeinjail.mp3 in Resources */,
+				631D047225299CB00047FCF7 /* twoounces.mp3 in Resources */,
+				631D047325299CB00047FCF7 /* grabembythe.mp3 in Resources */,
+				631D047425299CB00047FCF7 /* therussiahoaxisdead.mp3 in Resources */,
+				631D047525299CB00047FCF7 /* china.mp3 in Resources */,
+				631D047625299CB00047FCF7 /* thesearesickpeople.mp3 in Resources */,
+				631D047725299CB00047FCF7 /* thirdperson.mp3 in Resources */,
+				631D047825299CB00047FCF7 /* respectswomen.mp3 in Resources */,
+				631D047925299CB00047FCF7 /* fake_news.mp3 in Resources */,
+				631D047A25299CB00047FCF7 /* youdbeinjail.mp3 in Resources */,
+				631D047B25299CB00047FCF7 /* collusiondelusionisover.mp3 in Resources */,
+				631D047C25299CB00047FCF7 /* majorlosers.mp3 in Resources */,
+				631D049325299D220047FCF7 /* GoogleService-Info.plist in Resources */,
+				631D047D25299CB00047FCF7 /* sleepyjoebiden.mp3 in Resources */,
+				631D047E25299CB00047FCF7 /* crookedhillary.mp3 in Resources */,
+				631D047F25299CB00047FCF7 /* littlemarco.mp3 in Resources */,
+				631D048025299CB00047FCF7 /* dating_her.mp3 in Resources */,
+				631D048125299CB00047FCF7 /* wrong.mp3 in Resources */,
+				631D048225299CB00047FCF7 /* makeamericagreatagain.mp3 in Resources */,
+				631D048325299CB00047FCF7 /* couldvetoldyouthat.mp3 in Resources */,
+				631D048425299CB00047FCF7 /* wehavesomebreakingnews.mp3 in Resources */,
+				631D048525299CB00047FCF7 /* giveyouamillion.mp3 in Resources */,
+				631D048625299CB00047FCF7 /* theyrebeautifultheyrebig.mp3 in Resources */,
+				631D048725299CB00047FCF7 /* thefakenewsmedia.mp3 in Resources */,
+				631D048825299CB00047FCF7 /* pocahontas.mp3 in Resources */,
+				631D048925299CB00047FCF7 /* wallgottaller.mp3 in Resources */,
+				631D048A25299CB00047FCF7 /* lyinted.mp3 in Resources */,
+				631D048B25299CB00047FCF7 /* thedeepstate.mp3 in Resources */,
+				631D048C25299CB00047FCF7 /* metoogeneration.mp3 in Resources */,
+				631D048D25299CB00047FCF7 /* billions.mp3 in Resources */,
 				63539A43250DC6B3000D3EB3 /* Montserrat-Black.ttf in Resources */,
 				63539A44250DC6B3000D3EB3 /* Montserrat-BlackItalic.ttf in Resources */,
 				63539A45250DC6B3000D3EB3 /* Montserrat-Bold.ttf in Resources */,
@@ -547,7 +552,6 @@
 				635399F8250DC54B000D3EB3 /* components in Resources */,
 				6397943E25079AFC00608967 /* assets in Resources */,
 				6397943C25079A8500608967 /* main.jsbundle in Resources */,
-				6397938325077D0600608967 /* GoogleService-Info.plist in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				635399F7250DC54B000D3EB3 /* node_modules in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
@@ -954,9 +958,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 7;
 				DEVELOPMENT_TEAM = LBJ5VS345R;
 				ENABLE_BITCODE = NO;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"FB_SONARKIT_ENABLED=1",
@@ -970,7 +975,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = app.buzzboard.trump;
-				PRODUCT_NAME = "Trump Soundboard";
+				PRODUCT_NAME = "TrumpSoundboard";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -984,8 +989,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 7;
 				DEVELOPMENT_TEAM = LBJ5VS345R;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				INFOPLIST_FILE = BuzzboardTrump/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.2;
@@ -995,7 +1001,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = app.buzzboard.trump;
-				PRODUCT_NAME = "Trump Soundboard";
+				PRODUCT_NAME = "TrumpSoundboard";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
