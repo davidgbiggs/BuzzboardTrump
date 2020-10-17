@@ -56,5 +56,6 @@ export default function FeedbackRow(props) {
 const localStyles = EStyleSheet.create({
   feedbackRow: {
     flexDirection: 'row',
+    marginTop: '$vh * -0.8',
   },
 });

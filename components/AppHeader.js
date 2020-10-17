@@ -16,8 +16,9 @@ export default function AppHeader(props) {
 
 const localStyles = EStyleSheet.create({
   appHeader: {
-    position: 'relative',
-    marginTop: '$screenHeight * 0.01216749', //hasNotch() ? '$screenHeight * -0.02216749' : 0,
+    marginTop: '$vh * -4.5',
+    // position: 'relative',
+    // marginTop: '$screenHeight * 0.01216749',
     width: '$screenWidth * 0.96066667',
     justifyContent: 'space-between',
     alignItems: 'center',

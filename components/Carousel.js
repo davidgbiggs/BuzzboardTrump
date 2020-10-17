@@ -47,7 +47,7 @@ export default function Carousel(props) {
     );
   };
 
-  function handleScroll(event: Object) {
+  function handleScroll(event) {
     setScrollPosition(event.nativeEvent.contentOffset.x);
   }
 
@@ -75,11 +75,11 @@ export default function Carousel(props) {
                     renderItem={renderItem}
                     keyExtractor={(keyItem) => keyItem.id.toString()}
                   />
-                  <AdContainer
+                  {/* <AdContainer
                     testing={false}
                     adID={item.adID}
                     style={localStyles.bannerAd}
-                  />
+                  /> */}
                 </View>
               </>
             );
@@ -97,11 +97,12 @@ export default function Carousel(props) {
 
 const localStyles = EStyleSheet.create({
   scrollContainer: {
-    height: '$screenHeight * 0.56514285',
+    height: '$screenHeight * 0.46514285',
     width: '$screenWidth',
     alignSelf: 'center',
     alignItems: 'center',
     justifyContent: 'center',
+    marginBottom: '$vh * 1',
   },
   carouselInner: {
     flexWrap: 'nowrap',

@@ -32,7 +32,7 @@ const localStyles = EStyleSheet.create({
   boardBackground: {
     backgroundColor: '$primaryColor',
     width: '$screenWidth * .8773',
-    height: '$screenHeight * 0.67445813',
+    height: '$screenHeight * 0.57445813',
     borderRadius: '1rem',
     borderColor: '$secondaryColor',
     borderWidth: '0.15rem',

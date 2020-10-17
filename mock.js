@@ -131,6 +131,19 @@ export const mock = {
   boardTitle: 'Trump',
   pictureLocation:
     'https://live.staticflickr.com/4423/36550049236_7118b32f83_b.jpg',
+  adKeywords: [
+    'senate judiciary committee members',
+    'sylvia allen',
+    'flavier',
+    'sara gideon',
+    'senators up for reelection in 2020',
+  ],
+  bannerAdID: Platform.IOS
+    ? 'ca-app-pub-5686363028654312/8974881472'
+    : 'ca-app-pub-5686363028654312/9725173597',
+  unlockSoundAdID: Platform.IOS
+    ? 'ca-app-pub-5686363028654312/7731766777'
+    : 'ca-app-pub-5686363028654312/7661799801',
   soundCategories: [
     {
       id: '0',
