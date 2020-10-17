@@ -9,7 +9,8 @@
     "test": "jest",
     "lint": "eslint .",
     "postversion": "react-native-version --never-amend",
-    "build:ios": "node node_modules/react-native/local-cli/cli.js bundle --entry-file='index.js' --bundle-output='./ios/BuzzboardTrump/main.jsbundle' --dev=false --platform='ios' --assets-dest='./ios'"
+    "build:ios": "node node_modules/react-native/local-cli/cli.js bundle --entry-file='index.js' --bundle-output='./ios/BuzzboardTrump/main.jsbundle' --dev=false --platform='ios' --assets-dest='./ios'",
+    "update:packages": "node wipe-dependencies.js && rm -rf node_modules && npm update --save-dev && npm update --save"
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.10",
