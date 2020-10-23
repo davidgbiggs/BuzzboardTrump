@@ -66,12 +66,6 @@ export default function BoardScreen({navigation}) {
     <SafeAreaView edges={['top']}>
       <StatusBar barStyle="dark-content" />
       <View style={localStyles.outerView}>
-        <AdContainer
-          testing={false}
-          keywords={mock.adKeywords}
-          adID={mock.bannerAdID}
-          style={localStyles.bannerAd}
-        />
         <AppHeader toMarket={toMarketScreen} />
         <Board
           toBoard={toRequestBoardScreen}
@@ -88,6 +82,9 @@ export default function BoardScreen({navigation}) {
           currentSound={currentSound}
           play={play}
           // pause={pause}
+          // adID={mock.bannerAdId}
+          // keywords={mock.adKeywords}
+          // testing={false}
           isPlaying={isPlaying}
         />
       </View>

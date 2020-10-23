@@ -73,6 +73,8 @@ export default function Carousel(props) {
                     contentContainerStyle={localStyles.boardList}
                     data={item.sounds}
                     renderItem={renderItem}
+                    scrollEnabled={false}
+                    showsVerticalScrollIndicator={false}
                     keyExtractor={(keyItem) => keyItem.id.toString()}
                   />
                   {/* <AdContainer
@@ -86,6 +88,12 @@ export default function Carousel(props) {
           }}
         />
       </View>
+      <AdContainer
+        testing={false}
+        adID={props.adID}
+        style={localStyles.bannerAd}
+        adKeywords={props.adKeywords}
+      />
       <CategoryRow
         carouselRef={_carousel}
         soundList={props.soundList}

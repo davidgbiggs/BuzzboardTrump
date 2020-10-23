@@ -8,17 +8,16 @@ export default function AppHeader(props) {
   return (
     <View style={localStyles.appHeader}>
       <Wordmark />
-      <HeaderButtonContainer toMarket={() => {}} />
-      {/* toMarket={props.toMarket} */}
+      <HeaderButtonContainer toMarket={props.toMarket} />
     </View>
   );
 }
 
 const localStyles = EStyleSheet.create({
   appHeader: {
-    marginTop: '$vh * -4.5',
+    // marginTop: '$vh * -4.5',
     // position: 'relative',
-    // marginTop: '$screenHeight * 0.01216749',
+    marginTop: '$screenHeight * 0.01216749',
     width: '$screenWidth * 0.96066667',
     justifyContent: 'space-between',
     alignItems: 'center',

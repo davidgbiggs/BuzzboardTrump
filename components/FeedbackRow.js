@@ -57,5 +57,6 @@ const localStyles = EStyleSheet.create({
   feedbackRow: {
     flexDirection: 'row',
     marginTop: '$vh * -0.8',
+    marginBottom: '$vh * -3',
   },
 });

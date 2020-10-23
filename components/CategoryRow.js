@@ -66,5 +66,5 @@ const localStyles = EStyleSheet.create({
     width: '$screenWidth * 0.80266667',
     flexDirection: 'row',
   },
-  viewContainer: {height: '$screenHeight * 0.0470936'},
+  viewContainer: {height: '$screenHeight * 0.0470936', marginTop: '$vh * 1'},
 });
