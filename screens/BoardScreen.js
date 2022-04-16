@@ -9,7 +9,7 @@ import {mock} from '../mock.js';
 import AdContainer from '../components/AdContainer.js';
 
 export default function BoardScreen({navigation}) {
-  var Sound = require('react-native-sound');
+  const Sound = require('react-native-sound');
   Sound.setCategory('Playback');
 
   const [currentSound, setCurrentSound] = useState(

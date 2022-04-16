@@ -9,10 +9,12 @@ function AdContainer(props) {
 
   return (
     <>
-      <View style={{...localStyles.bannerAd}}>
+      {/* <View styles={localStyles.outerView}> */}
+      <View style={localStyles.bannerAd}>
         {/* <View style={{height: 50, width: 320, backgroundColor: 'white'}} /> */}
         <BannerAd
-          size="320x50"
+          // size="320x50"
+          size="FLUID"
           // size={
           //   DeviceInfo.getBrand() === 'Apple'
           //     ? BannerAdSize.SMART_BANNER
@@ -21,7 +23,8 @@ function AdContainer(props) {
           requestOptions={{
             keywords: props.adKeywords,
           }}
-          unitId={props.testing ? TestIds.BANNER : props.adID}
+          // unitId={props.testing ? TestIds.BANNER : props.adID}
+          unitId={TestIds.BANNER}
           onAdFailedToLoad={(error) => {
             console.log(`Failed Loading: ${error} \n\n\n\n\n\n\n`);
           }}
@@ -33,6 +36,7 @@ function AdContainer(props) {
           }}
         />
       </View>
+      {/* </View> */}
     </>
   );
 }
@@ -53,9 +57,19 @@ const localStyles = EStyleSheet.create({
     // borderColor: 'black',
     // alignSelf: 'center',
     // maxHeight: '$vh * 5',
-    alignItems: 'center',
-    justifyContent: 'center',
-    backgroundColor: 'transparent',
-    width: '$vw * 100',
+    height: '$vh * 5',
+    width: '$vw * 60',
+    justifyContent: 'flex-start',
+    alignItems: 'flex-start',
+    marginLeft: '$vw * -40',
+    marginBottom: '$vh * 0.5',
+    // width: 320,
+    // flexDirection: 'row',
+    // justifyContent: 'center',
+    // alignItems: 'center',
+    // backgroundColor: 'blue',
+    // marginLeft: -50,
+    // alignSelf: 'center',
+    // width: '$vw * 100',
   },
 });
