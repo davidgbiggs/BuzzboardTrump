@@ -42,17 +42,6 @@ export default function Player(props) {
               />
             </TouchableOpacity>
           </View>
-          {/* <View
-            style={{
-              flexDirection: 'row',
-              // paddingVertical: EStyleSheet.value('$vh * 1'),
-            }}>
-            <AdContainer
-              testing={true}
-              keywords={props.keywords}
-              adID={props.adID}
-            />
-          </View> */}
         </View>
       </TouchableOpacity>
     </>
@@ -61,12 +50,8 @@ export default function Player(props) {
 
 const localStyles = EStyleSheet.create({
   playerContainer: {
-    // height: '$screenHeight * 0.07635468',
     width: '$screenWidth + 20',
     backgroundColor: '$activeColor',
-    // alignItems: 'center',
-    // justifyContent: 'space-between',
-    // paddingHorizontal: '$screenWidth * 0.05',
     borderWidth: '0.15rem',
     borderColor: '$secondaryColor',
     marginBottom: '-0.15rem',

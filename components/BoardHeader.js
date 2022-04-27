@@ -15,7 +15,6 @@ export default function BoardHeader(props) {
 const localStyles = EStyleSheet.create({
   pictureRow: {
     marginTop: '-0.04618227 * $screenHeight',
-    //marginLeft: '-0.05 * $screenWidth',
     width: '$screenWidth * 0.90933333',
     flexDirection: 'row',
     alignItems: 'center',

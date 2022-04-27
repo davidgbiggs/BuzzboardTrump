@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import {TextInput, Text, View} from 'react-native';
 import EStyleSheet from 'react-native-extended-stylesheet';
 

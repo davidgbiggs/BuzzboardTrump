@@ -1,6 +1,7 @@
 import React from 'react';
 import {FlatList} from 'react-native';
 import EStyleSheet from 'react-native-extended-stylesheet';
+import ListItem from './ListItem';
 
 export default function SoundList(props) {
   const renderItem = ({item}) => {

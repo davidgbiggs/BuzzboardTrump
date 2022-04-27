@@ -1,5 +1,5 @@
 import React, {useRef, useEffect, useState} from 'react';
-import {ScrollView, FlatList, View} from 'react-native';
+import {FlatList, View} from 'react-native';
 import CategoryChip from './CategoryChip';
 import EStyleSheet from 'react-native-extended-stylesheet';
 import {Dimensions} from 'react-native';
@@ -12,7 +12,6 @@ export default function CategoryRow(props) {
 
   useEffect(() => {
     const index = Math.round(props.scrollPosition / windowWidth);
-    // console.log(index);
     if (index >= 0 && index <= props.soundList.length - 1) {
       setActiveIndex(`${index}`);
       _categoryRow.current.scrollToIndex({

@@ -24,7 +24,6 @@ export default function CategoryChip(props) {
               ? {
                   ...localStyles.chipContainer,
                   backgroundColor: EStyleSheet.value('$oppositeColor'),
-                  // borderColor: EStyleSheet.value('$modeColor'),
                 }
               : {...localStyles.chipContainer}
           }>
@@ -49,7 +48,6 @@ const localStyles = EStyleSheet.create({
   chipContainer: {
     $height: '$screenHeight * 0.0270936',
     height: '$height',
-    // width: '$screenWidth * 0.14',
     paddingHorizontal: '$screenWidth * 0.01',
     borderRadius: '$height * 0.2',
     borderWidth: '$height * 0.05',

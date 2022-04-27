@@ -3,8 +3,6 @@ import {View} from 'react-native';
 import EStyleSheet from 'react-native-extended-stylesheet';
 import StackScreenHeader from '../components/StackScreenHeader';
 import BasicText from '../components/BasicText';
-import FormView from '../components/FormView';
-import BuzzboardInput from '../components/BuzzboardInput';
 import {SafeAreaView} from 'react-native-safe-area-context';
 
 export default function RequestBoardScreen({navigation}) {

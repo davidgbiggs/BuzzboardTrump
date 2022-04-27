@@ -1,38 +1,18 @@
 import React, {useState, useRef} from 'react';
-import {View, ScrollView, FlatList, Animated} from 'react-native';
+import {View, FlatList} from 'react-native';
 import EStyleSheet from 'react-native-extended-stylesheet';
 import AdContainer from './AdContainer';
 import CategoryRow from './CategoryRow';
-import SoundList from './SoundList';
 import ListItem from './ListItem';
 
 export default function Carousel(props) {
   const [scrollPosition, setScrollPosition] = useState(0);
   const _carousel = useRef(null);
 
-  // const renderItem = ({item}) => {
-  //   return (
-  //     <>
-  //       <ListItem
-  //         title={item.title}
-  //         id={item.id}
-  //         artist={item.artist}
-  //         url={item.url}
-  //         play={props.play}
-  //         pause={props.pause}
-  //         setTrack={props.setTrack}
-  //         currentTrack={props.currentTrack}
-  //         playerState={props.playerState}
-  //       />
-  //     </>
-  //   );
-  // };
-
   const renderItem = ({item}) => {
     return (
       <>
         <ListItem
-          // scrollPosition={scrollPosition}
           track={item}
           title={item.title}
           id={item.id}
@@ -77,11 +57,6 @@ export default function Carousel(props) {
                     showsVerticalScrollIndicator={false}
                     keyExtractor={(keyItem) => keyItem.id.toString()}
                   />
-                  {/* <AdContainer
-                    testing={false}
-                    adID={item.adID}
-                    style={localStyles.bannerAd}
-                  /> */}
                 </View>
               </>
             );

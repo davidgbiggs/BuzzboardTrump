@@ -88,5 +88,3 @@ EStyleSheet.build({
   $oppositeColor: '#000',
   $modeColor: '#FFF',
 });
-
-const localStyles = EStyleSheet.create({});

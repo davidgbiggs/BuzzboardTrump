@@ -8,12 +8,6 @@ import AppLink from 'react-native-app-link';
 export default function BuzzboardLink(props) {
   function openApp(appName, appStoreId, appStoreLocale, playStoreId) {
     AppLink.openInStore({appName, appStoreId, appStoreLocale, playStoreId});
-    // .then(() => {
-    //   // do stuff
-    // })
-    // .catch((err) => {
-    //   console.log("couldn't open app store link");
-    // });
   }
 
   return (
@@ -63,20 +57,12 @@ const localStyles = EStyleSheet.create({
   linkIconView: {
     justifyContent: 'center',
     alignItems: 'center',
-    // backgroundColor: '$secondaryColor',
     paddingVertical: '$vh * 1',
     paddingHorizontal: '$vw * 2.5',
     height: '100%',
     borderBottomRightRadius: '0.4rem',
     borderTopRightRadius: '0.4rem',
-    // borderBottomLeftRadius: '0.2rem',
-    // borderTopLeftRadius: '0.2rem',
     alignSelf: 'center',
-    // borderColor: '$oppositeColor',
-    // borderTopWidth: '0.15rem',
-    // borderRightWidth: '0.15rem',
-    // borderBottomWidth: '0.15rem',
-    // borderLeftWidth: '0.15rem',
   },
   title: {
     marginVertical: '0.4rem',

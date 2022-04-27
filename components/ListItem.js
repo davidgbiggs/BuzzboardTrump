@@ -4,22 +4,12 @@ import BasicText from './BasicText';
 import EStyleSheet from 'react-native-extended-stylesheet';
 import FontAwesome5Icon from 'react-native-vector-icons/FontAwesome5';
 
-function areEqual(prevProps, nextProps) {
-  prevProps === nextProps;
-}
-
 function ListItem(props) {
   const track = {
     id: props.id,
     sound: props.sound,
     title: props.title,
   };
-
-  // console.log(props.title);
-
-  // async function skip() {
-  //   props.setTrack(soundObject);
-  // }
 
   async function play() {
     props.play(track);
@@ -75,15 +65,6 @@ const localStyles = EStyleSheet.create({
     borderColor: 'white',
     borderWidth: '0.15rem',
     marginTop: '$screenHeight * 0.019',
-    // shadowColor: '#000',
-    // shadowOffset: {
-    //   width: 0,
-    //   height: 1,
-    // },
-    // shadowOpacity: 0.22,
-    // shadowRadius: 2.22,
-
-    // elevation: 3,
   },
   listItemText: {
     fontSize: '1rem',

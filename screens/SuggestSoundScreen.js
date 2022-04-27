@@ -43,7 +43,6 @@ const localStyles = EStyleSheet.create({
     borderColor: '$oppositeColor',
     borderWidth: '0.1rem',
     borderRadius: '0.5rem',
-    // marginHorizontal: '$vw * 10',
     justifyContent: 'center',
     alignItems: 'center',
     paddingVertical: '0.7rem',

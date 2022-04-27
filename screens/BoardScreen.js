@@ -1,4 +1,4 @@
-import React, {useState, useEffect, useRef} from 'react';
+import React, {useState} from 'react';
 import {View, StatusBar} from 'react-native';
 import {SafeAreaView} from 'react-native-safe-area-context';
 import EStyleSheet from 'react-native-extended-stylesheet';
@@ -6,7 +6,6 @@ import AppHeader from '../components/AppHeader.js';
 import Board from '../components/Board.js';
 import Player from '../components/Player.js';
 import {mock} from '../mock.js';
-import AdContainer from '../components/AdContainer.js';
 
 export default function BoardScreen({navigation}) {
   const Sound = require('react-native-sound');
@@ -24,27 +23,21 @@ export default function BoardScreen({navigation}) {
         currentSound.sound.stop();
       } else {
         setIsPlaying(true);
-        // setDuration(track.sound.getDuration());
         currentSound.sound.play(() => {
           setIsPlaying(false);
-          // setPlaySeconds(0);
         });
       }
     } else {
       currentSound.sound.stop();
       setCurrentSound(track);
       if (isPlaying) {
-        // setDuration(track.sound.getDuration());
         track.sound.play(() => {
           setIsPlaying(false);
-          // setPlaySeconds(0);
         });
       } else {
         setIsPlaying(true);
-        // setDuration(track.sound.getDuration());
         track.sound.play(() => {
           setIsPlaying(false);
-          // setPlaySeconds(0);
         });
       }
     }
@@ -97,6 +90,5 @@ const localStyles = EStyleSheet.create({
     justifyContent: 'space-between',
     height: '100%',
     alignItems: 'center',
-    //backgroundColor: '$secondaryColor',
   },
 });

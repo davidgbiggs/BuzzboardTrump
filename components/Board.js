@@ -17,8 +17,6 @@ export default function Board(props) {
         <Carousel
           currentSound={props.currentSound}
           play={props.play}
-          // pause={props.pause}
-          // setTrack={props.setTrack}
           adKeywords={props.data.adKeywords}
           adID={props.data.bannerAdID}
           isPlaying={props.isPlaying}
@@ -34,7 +32,6 @@ const localStyles = EStyleSheet.create({
   boardBackground: {
     backgroundColor: '$primaryColor',
     width: '$screenWidth * .8773',
-    // height: '$screenHeight * 0.63545813',
     justifyContent: 'space-between',
     borderRadius: '1rem',
     borderColor: '$secondaryColor',

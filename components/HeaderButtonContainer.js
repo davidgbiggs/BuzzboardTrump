@@ -1,7 +1,6 @@
 import React from 'react';
 import {View, TouchableOpacity} from 'react-native';
 import EStyleSheet from 'react-native-extended-stylesheet';
-import MaterialIcon from 'react-native-vector-icons/MaterialIcons';
 import EntypoIcon from 'react-native-vector-icons/Entypo';
 
 export default function HeaderButtonContainer(props) {
@@ -17,14 +16,6 @@ export default function HeaderButtonContainer(props) {
           color={iconColor}
         />
       </TouchableOpacity>
-      {/* <TouchableOpacity activeOpacity={0.6} onPress={() => {}}>
-        <MaterialIcon
-          size={EStyleSheet.value('$screenHeight * 0.03825123')}
-          name="settings"
-          style={localStyles.icon}
-          color={iconColor}
-        />
-      </TouchableOpacity> */}
     </View>
   );
 }
